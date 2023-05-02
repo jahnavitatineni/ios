@@ -218,7 +218,7 @@
                 "population": "9863117",
                 "capital": "Bujumbura",
                 "continentName": "Africa",
-                emoji":"🇧🇮","unicode":"U+1F1E7 U+1F1EE","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BI.svg"
+                "emoji":"🇧🇮","unicode":"U+1F1E7 U+1F1EE","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BI.svg"
             },
             {
                 "countryCode": "BJ",
@@ -740,7 +740,7 @@
                 "population": "24339838",
                 "capital": "Accra",
                 "continentName": "Africa",
-                emoji":"🇬🇭","unicode":"U+1F1EC U+1F1ED","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GH.svg"
+                "emoji":"🇬🇭","unicode":"U+1F1EC U+1F1ED","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GH.svg"
             },
             {
                 "countryCode": "GI",
