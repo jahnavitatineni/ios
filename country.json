@@ -515,7 +515,7 @@
                 "population": "81802257",
                 "capital": "Berlin",
                 "continentName": "Europe",
-                emoji":"🇩🇪","unicode":"U+1F1E9 U+1F1EA","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg"
+                "emoji":"🇩🇪","unicode":"U+1F1E9 U+1F1EA","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg"
             },
             {
                 "countryCode": "DJ",
