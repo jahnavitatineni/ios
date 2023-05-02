@@ -7,8 +7,8 @@
                 "capital": "Andorra la Vella",
                 "continentName": "Europe",
                 "emoji":"🇦🇩",
-                "unicode":"U+1F1E6 U+1F1E9",
-                "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AD.svg"
+                "unicode":"U+1F1E6 U+1F1E9"
+             
             },
             {
                 "countryCode": "AE",
@@ -18,8 +18,8 @@
                 "capital": "Abu Dhabi",
                 "continentName": "Asia",
                 "emoji":"🇦🇪",
-                "unicode":"U+1F1E6 U+1F1EA",
-                "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AE.svg"
+                "unicode":"U+1F1E6 U+1F1EA"
+                
             },
             {
                 "countryCode": "AF",
@@ -29,8 +29,8 @@
                 "capital": "Kabul",
                 "continentName": "Asia",
                 "emoji":"🇦🇫",
-                "unicode":"U+1F1E6 U+1F1EB",
-                "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AF.svg"
+                "unicode":"U+1F1E6 U+1F1EB"
+                
             },
             {
                 "countryCode": "AG",
@@ -40,8 +40,8 @@
                 "capital": "St. John's",
                 "continentName": "North America",
                 "emoji":"🇦🇬",
-                "unicode":"U+1F1E6 U+1F1EC",
-                "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AG.svg"
+                "unicode":"U+1F1E6 U+1F1EC"
+                
             },
             {
                 "countryCode": "AI",
@@ -51,8 +51,8 @@
                 "capital": "The Valley",
                 "continentName": "North America"
                 "emoji":"🇦🇮",
-                "unicode":"U+1F1E6 U+1F1EE",
-                "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AI.svg"
+                "unicode":"U+1F1E6 U+1F1EE"
+                
             },
             {
                 "countryCode": "AL",
@@ -61,7 +61,9 @@
                 "population": "2986952",
                 "capital": "Tirana",
                 "continentName": "Europe",
-                "emoji":"🇦🇱","unicode":"U+1F1E6 U+1F1F1","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AL.svg"
+                "emoji":"🇦🇱",
+                "unicode":"U+1F1E6 U+1F1F1"
+                        
                 
             },
             {
@@ -72,8 +74,8 @@
                 "capital": "Yerevan",
                 "continentName": "Asia",
                 "emoji":"🇦🇲",
-                "unicode":"U+1F1E6 U+1F1F2",
-                "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AM.svg"
+                "unicode":"U+1F1E6 U+1F1F2"
+               
             },
             {
                 "countryCode": "AO",
@@ -82,7 +84,8 @@
                 "population": "13068161",
                 "capital": "Luanda",
                 "continentName": "Africa",
-                "emoji":"🇦🇴","unicode":"U+1F1E6 U+1F1F4","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AO.svg"
+                "emoji":"🇦🇴",
+                "unicode":"U+1F1E6 U+1F1F4"
             },
             {
                 "countryCode": "AQ",
@@ -93,7 +96,7 @@
                 "continentName": "Antarctica",
                 "emoji":"🇦🇶",
                 "unicode":"U+1F1E6 U+1F1F6",
-                "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AQ.svg"
+                
             },
             {
                 "countryCode": "AR",
@@ -103,8 +106,7 @@
                 "capital": "Buenos Aires",
                 "continentName": "South America",
                 "emoji":"🇦🇷",
-                "unicode":"U+1F1E6 U+1F1F7",
-                "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AR.svg"
+                "unicode":"U+1F1E6 U+1F1F7"
             },
             {
                 "countryCode": "AS",
@@ -115,7 +117,7 @@
                 "continentName": "Oceania",
                 "emoji":"🇦🇸",
                 "unicode":"U+1F1E6 U+1F1F8",
-                "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AS.svg"
+                
             },
             {
                 "countryCode": "AT",
@@ -125,8 +127,7 @@
                 "capital": "Vienna",
                 "continentName": "Europe",
                 "emoji":"🇦🇹",
-                "unicode":"U+1F1E6 U+1F1F9",
-                "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AT.svg"
+                "unicode":"U+1F1E6 U+1F1F9"
             },
             {
                 "countryCode": "AU",
@@ -136,8 +137,7 @@
                 "capital": "Canberra",
                 "continentName": "Oceania",
                 "emoji":"🇦🇺",
-                "unicode":"U+1F1E6 U+1F1FA",
-                "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AU.svg"
+                "unicode":"U+1F1E6 U+1F1FA"
             },
             {
                 "countryCode": "AW",
@@ -147,8 +147,7 @@
                 "capital": "Oranjestad",
                 "continentName": "North America",
                 "emoji":"🇦🇼",
-                "unicode":"U+1F1E6 U+1F1FC",
-                "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AW.svg"
+                "unicode":"U+1F1E6 U+1F1FC"
             },
             {
                 "countryCode": "AX",
@@ -157,7 +156,8 @@
                 "population": "26711",
                 "capital": "Mariehamn",
                 "continentName": "Europe",
-                "emoji":"🇦🇽","unicode":"U+1F1E6 U+1F1FD","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AX.svg"
+                "emoji":"🇦🇽",
+                "unicode":"U+1F1E6 U+1F1FD"
             },
             {
                 "countryCode": "AZ",
@@ -166,7 +166,8 @@
                 "population": "8303512",
                 "capital": "Baku",
                 "continentName": "Asia",
-                "emoji":"🇦🇿","unicode":"U+1F1E6 U+1F1FF","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/AZ.svg"
+                "emoji":"🇦🇿",
+                 "unicode":"U+1F1E6 U+1F1FF"
             },
             {
                 "countryCode": "BA",
@@ -175,7 +176,8 @@
                 "population": "4590000",
                 "capital": "Sarajevo",
                 "continentName": "Europe",
-                "emoji":"🇧🇦","unicode":"U+1F1E7 U+1F1E6","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BA.svg"
+                "emoji":"🇧🇦",
+                "unicode":"U+1F1E7 U+1F1E6"
             },
             {
                 "countryCode": "BB",
@@ -184,7 +186,8 @@
                 "population": "285653",
                 "capital": "Bridgetown",
                 "continentName": "North America",
-                "emoji":"🇧🇧","unicode":"U+1F1E7 U+1F1E7","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BB.svg"
+                "emoji":"🇧🇧",
+                "unicode":"U+1F1E7 U+1F1E7"
             },
             {
                 "countryCode": "BD",
@@ -193,7 +196,7 @@
                 "population": "156118464",
                 "capital": "Dhaka",
                 "continentName": "Asia",
-                "emoji":"🇧🇩","unicode":"U+1F1E7 U+1F1E9","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BD.svg"
+                "emoji":"🇧🇩","unicode":"U+1F1E7 U+1F1E9"
             },
             {
                 "countryCode": "BE",
@@ -202,7 +205,7 @@
                 "population": "10403000",
                 "capital": "Brussels",
                 "continentName": "Europe",
-                "emoji":"🇧🇪","unicode":"U+1F1E7 U+1F1EA","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BE.svg"
+                "emoji":"🇧🇪","unicode":"U+1F1E7 U+1F1EA"
             },
             {
                 "countryCode": "BF",
@@ -211,7 +214,7 @@
                 "population": "16241811",
                 "capital": "Ouagadougou",
                 "continentName": "Africa",
-                "emoji":"🇧🇫","unicode":"U+1F1E7 U+1F1EB","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BF.svg"
+                "emoji":"🇧🇫","unicode":"U+1F1E7 U+1F1EB"
             },
             {
                 "countryCode": "BG",
@@ -220,7 +223,7 @@
                 "population": "7148785",
                 "capital": "Sofia",
                 "continentName": "Europe",
-                "emoji":"🇧🇬","unicode":"U+1F1E7 U+1F1EC","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BG.svg"
+                "emoji":"🇧🇬","unicode":"U+1F1E7 U+1F1EC"
             },
             {
                 "countryCode": "BH",
@@ -229,7 +232,7 @@
                 "population": "738004",
                 "capital": "Manama",
                 "continentName": "Asia",
-                "emoji":"🇧🇭","unicode":"U+1F1E7 U+1F1ED","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BH.svg"
+                "emoji":"🇧🇭","unicode":"U+1F1E7 U+1F1ED"
             },
             {
                 "countryCode": "BI",
@@ -238,7 +241,7 @@
                 "population": "9863117",
                 "capital": "Bujumbura",
                 "continentName": "Africa",
-                "emoji":"🇧🇮","unicode":"U+1F1E7 U+1F1EE","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BI.svg"
+                "emoji":"🇧🇮","unicode":"U+1F1E7 U+1F1EE"
             },
             {
                 "countryCode": "BJ",
@@ -247,7 +250,7 @@
                 "population": "9056010",
                 "capital": "Porto-Novo",
                 "continentName": "Africa",
-                "emoji":"🇧🇯","unicode":"U+1F1E7 U+1F1EF","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BJ.svg"
+                "emoji":"🇧🇯","unicode":"U+1F1E7 U+1F1EF"
             },
             {
                 "countryCode": "BL",
@@ -256,7 +259,7 @@
                 "population": "8450",
                 "capital": "Gustavia",
                 "continentName": "North America",
-                "emoji":"🇧🇱","unicode":"U+1F1E7 U+1F1F1","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BL.svg"
+                "emoji":"🇧🇱","unicode":"U+1F1E7 U+1F1F1"
             },
             {
                 "countryCode": "BM",
@@ -265,7 +268,7 @@
                 "population": "65365",
                 "capital": "Hamilton",
                 "continentName": "North America",
-                "emoji":"🇧🇲","unicode":"U+1F1E7 U+1F1F2","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BM.svg"
+                "emoji":"🇧🇲","unicode":"U+1F1E7 U+1F1F2"
             },
             {
                 "countryCode": "BN",
@@ -274,7 +277,7 @@
                 "population": "395027",
                 "capital": "Bandar Seri Begawan",
                 "continentName": "Asia",
-                "emoji":"🇧🇳","unicode":"U+1F1E7 U+1F1F3","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BN.svg"
+                "emoji":"🇧🇳","unicode":"U+1F1E7 U+1F1F3"
             },
             {
                 "countryCode": "BO",
@@ -283,7 +286,7 @@
                 "population": "9947418",
                 "capital": "Sucre",
                 "continentName": "South America",
-                "emoji":"🇧🇴","unicode":"U+1F1E7 U+1F1F4","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BO.svg"
+                "emoji":"🇧🇴","unicode":"U+1F1E7 U+1F1F4"
             },
             {
                 "countryCode": "BQ",
@@ -292,7 +295,7 @@
                 "population": "18012",
                 "capital": "Kralendijk",
                 "continentName": "North America",
-                "emoji":"🇧🇶","unicode":"U+1F1E7 U+1F1F6","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BQ.svg"
+                "emoji":"🇧🇶","unicode":"U+1F1E7 U+1F1F6"
             },
             {
                 "countryCode": "BR",
@@ -301,7 +304,7 @@
                 "population": "201103330",
                 "capital": "Brasília",
                 "continentName": "South America",
-                "emoji":"🇧🇷","unicode":"U+1F1E7 U+1F1F7","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BR.svg"
+                "emoji":"🇧🇷","unicode":"U+1F1E7 U+1F1F7"
             },
             {
                 "countryCode": "BS",
@@ -310,7 +313,7 @@
                 "population": "301790",
                 "capital": "Nassau",
                 "continentName": "North America",
-                "emoji":"🇧🇸","unicode":"U+1F1E7 U+1F1F8","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BS.svg"
+                "emoji":"🇧🇸","unicode":"U+1F1E7 U+1F1F8"
             },
             {
                 "countryCode": "BT",
@@ -319,7 +322,7 @@
                 "population": "699847",
                 "capital": "Thimphu",
                 "continentName": "Asia",
-                "emoji":"🇧🇹","unicode":"U+1F1E7 U+1F1F9","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BT.svg"
+                "emoji":"🇧🇹","unicode":"U+1F1E7 U+1F1F9"
             },
             {
                 "countryCode": "BV",
@@ -328,7 +331,7 @@
                 "population": "0",
                 "capital": "",
                 "continentName": "Antarctica",
-                "emoji":"🇧🇻","unicode":"U+1F1E7 U+1F1FB","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BV.svg"
+                "emoji":"🇧🇻","unicode":"U+1F1E7 U+1F1FB"
             },
             {
                 "countryCode": "BW",
@@ -337,7 +340,7 @@
                 "population": "2029307",
                 "capital": "Gaborone",
                 "continentName": "Africa",
-                "emoji":"🇧🇼","unicode":"U+1F1E7 U+1F1FC","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BW.svg"
+                "emoji":"🇧🇼","unicode":"U+1F1E7 U+1F1FC"
             },
             {
                 "countryCode": "BY",
@@ -346,7 +349,7 @@
                 "population": "9685000",
                 "capital": "Minsk",
                 "continentName": "Europe",
-                "emoji":"🇧🇾","unicode":"U+1F1E7 U+1F1FE","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BY.svg"
+                "emoji":"🇧🇾","unicode":"U+1F1E7 U+1F1FE"
             },
             {
                 "countryCode": "BZ",
@@ -355,7 +358,7 @@
                 "population": "314522",
                 "capital": "Belmopan",
                 "continentName": "North America",
-                "emoji":"🇧🇿","unicode":"U+1F1E7 U+1F1FF","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/BZ.svg"
+                "emoji":"🇧🇿","unicode":"U+1F1E7 U+1F1FF"
             },
             {
                 "countryCode": "CA",
@@ -364,7 +367,7 @@
                 "population": "33679000",
                 "capital": "Ottawa",
                 "continentName": "North America",
-                "emoji":"🇨🇦","unicode":"U+1F1E8 U+1F1E6","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CA.svg"
+                "emoji":"🇨🇦","unicode":"U+1F1E8 U+1F1E6"
             },
             {
                 "countryCode": "CC",
@@ -373,7 +376,7 @@
                 "population": "628",
                 "capital": "West Island",
                 "continentName": "Asia",
-                "emoji":"🇨🇨","unicode":"U+1F1E8 U+1F1E8","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CC.svg"
+                "emoji":"🇨🇨","unicode":"U+1F1E8 U+1F1E8"
             },
             {
                 "countryCode": "CD",
@@ -382,7 +385,7 @@
                 "population": "70916439",
                 "capital": "Kinshasa",
                 "continentName": "Africa",
-                "emoji":"🇨🇩","unicode":"U+1F1E8 U+1F1E9","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CD.svg"
+                "emoji":"🇨🇩","unicode":"U+1F1E8 U+1F1E9"
             },
             {
                 "countryCode": "CF",
@@ -392,8 +395,8 @@
                 "capital": "Bangui",
                 "continentName": "Africa",
                 "emoji":"🇨🇫",
-                        "unicode":"U+1F1E8 U+1F1EB",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CF.svg"
+                        "unicode":"U+1F1E8 U+1F1EB"
+                        
             },
             {
                 "countryCode": "CG",
@@ -403,8 +406,7 @@
                 "capital": "Brazzaville",
                 "continentName": "Africa",
                 "emoji":"🇨🇬",
-                        "unicode":"U+1F1E8 U+1F1EC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CG.svg"
+                        "unicode":"U+1F1E8 U+1F1EC"
             },
             {
                 "countryCode": "CH",
@@ -414,8 +416,7 @@
                 "capital": "Bern",
                 "continentName": "Europe",
                 "emoji":"🇨🇭",
-                        "unicode":"U+1F1E8 U+1F1ED",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CH.svg"
+                        "unicode":"U+1F1E8 U+1F1ED"
             },
             {
                 "countryCode": "CI",
@@ -425,8 +426,7 @@
                 "capital": "Yamoussoukro",
                 "continentName": "Africa",
                 "emoji":"🇨🇮",
-                        "unicode":"U+1F1E8 U+1F1EE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CI.svg"
+                        "unicode":"U+1F1E8 U+1F1EE"
             },
             {
                 "countryCode": "CK",
@@ -436,8 +436,7 @@
                 "capital": "Avarua",
                 "continentName": "Oceania",
                 "emoji":"🇨🇰",
-                        "unicode":"U+1F1E8 U+1F1F0",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CK.svg"
+                        "unicode":"U+1F1E8 U+1F1F0"
             },
             {
                 "countryCode": "CL",
@@ -447,8 +446,7 @@
                 "capital": "Santiago",
                 "continentName": "South America",
                 "emoji":"🇨🇱",
-                        "unicode":"U+1F1E8 U+1F1F1",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CL.svg"
+                        "unicode":"U+1F1E8 U+1F1F1"
             },
             {
                 "countryCode": "CM",
@@ -457,7 +455,7 @@
                 "population": "19294149",
                 "capital": "Yaoundé",
                 "continentName": "Africa",
-                "emoji":"🇨🇲","unicode":"U+1F1E8 U+1F1F2","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CM.svg"
+                "emoji":"🇨🇲","unicode":"U+1F1E8 U+1F1F2"
             },
             {
                 "countryCode": "CN",
@@ -466,7 +464,7 @@
                 "population": "1330044000",
                 "capital": "Beijing",
                 "continentName": "Asia",
-                "emoji":"🇨🇳","unicode":"U+1F1E8 U+1F1F3","image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CN.svg"
+                "emoji":"🇨🇳","unicode":"U+1F1E8 U+1F1F3"
             },
             {
                 "countryCode": "CO",
@@ -476,8 +474,7 @@
                 "capital": "Bogotá",
                 "continentName": "South America",
                 "emoji":"🇨🇴",
-                        "unicode":"U+1F1E8 U+1F1F4",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CO.svg"
+                        "unicode":"U+1F1E8 U+1F1F4"
             },
             {
                 "countryCode": "CR",
@@ -487,8 +484,7 @@
                 "capital": "San José",
                 "continentName": "North America",
                 "emoji":"🇨🇷",
-                        "unicode":"U+1F1E8 U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CR.svg"
+                        "unicode":"U+1F1E8 U+1F1F7"
             },
             {
                 "countryCode": "CU",
@@ -498,8 +494,7 @@
                 "capital": "Havana",
                 "continentName": "North America",
                 "emoji":"🇨🇺",
-                        "unicode":"U+1F1E8 U+1F1FA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CU.svg"
+                        "unicode":"U+1F1E8 U+1F1FA"
             },
             {
                 "countryCode": "CV",
@@ -509,8 +504,7 @@
                 "capital": "Praia",
                 "continentName": "Africa",
                 "emoji":"🇨🇻",
-                        "unicode":"U+1F1E8 U+1F1FB",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CV.svg"
+                        "unicode":"U+1F1E8 U+1F1FB"
             },
             {
                 "countryCode": "CW",
@@ -520,8 +514,7 @@
                 "capital": "Willemstad",
                 "continentName": "North America",
                 "emoji":"🇨🇼",
-                        "unicode":"U+1F1E8 U+1F1FC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CW.svg"
+                        "unicode":"U+1F1E8 U+1F1FC"
             },
             {
                 "countryCode": "CX",
@@ -531,8 +524,7 @@
                 "capital": "Flying Fish Cove",
                 "continentName": "Asia",
                 "emoji":"🇨🇽",
-                        "unicode":"U+1F1E8 U+1F1FD",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CX.svg"
+                        "unicode":"U+1F1E8 U+1F1FD"
             },
             {
                 "countryCode": "CY",
@@ -542,8 +534,7 @@
                 "capital": "Nicosia",
                 "continentName": "Europe",
                 "emoji":"🇨🇾",
-                        "unicode":"U+1F1E8 U+1F1FE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CY.svg"
+                        "unicode":"U+1F1E8 U+1F1FE"
             },
             {
                 "countryCode": "CZ",
@@ -553,8 +544,7 @@
                 "capital": "Prague",
                 "continentName": "Europe",
                 "emoji":"🇨🇿",
-                        "unicode":"U+1F1E8 U+1F1FF",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/CZ.svg"
+                        "unicode":"U+1F1E8 U+1F1FF"
             },
             {
                 "countryCode": "DE",
@@ -564,8 +554,7 @@
                 "capital": "Berlin",
                 "continentName": "Europe",
                 "emoji":"🇩🇪",
-                        "unicode":"U+1F1E9 U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DE.svg"
+                        "unicode":"U+1F1E9 U+1F1EA"
             },
             {
                 "countryCode": "DJ",
@@ -575,8 +564,7 @@
                 "capital": "Djibouti",
                 "continentName": "Africa",
                 "emoji":"🇩🇯",
-                        "unicode":"U+1F1E9 U+1F1EF",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DJ.svg"
+                        "unicode":"U+1F1E9 U+1F1EF"
             },
             {
                 "countryCode": "DK",
@@ -586,8 +574,7 @@
                 "capital": "Copenhagen",
                 "continentName": "Europe",
                 "emoji":"🇩🇰",
-                        "unicode":"U+1F1E9 U+1F1F0",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DK.svg"
+                        "unicode":"U+1F1E9 U+1F1F0"
             },
             {
                 "countryCode": "DM",
@@ -597,8 +584,7 @@
                 "capital": "Roseau",
                 "continentName": "North America",
                 "emoji":"🇩🇲",
-                        "unicode":"U+1F1E9 U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DM.svg"
+                        "unicode":"U+1F1E9 U+1F1F2"
             },
             {
                 "countryCode": "DO",
@@ -608,8 +594,7 @@
                 "capital": "Santo Domingo",
                 "continentName": "North America",
                 "emoji":"🇩🇴",
-                        "unicode":"U+1F1E9 U+1F1F4",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DO.svg"
+                        "unicode":"U+1F1E9 U+1F1F4"
             },
             {
                 "countryCode": "DZ",
@@ -619,8 +604,7 @@
                 "capital": "Algiers",
                 "continentName": "Africa",
                 "emoji":"🇩🇿",
-                        "unicode":"U+1F1E9 U+1F1FF",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/DZ.svg"
+                        "unicode":"U+1F1E9 U+1F1FF"
             },
             {
                 "countryCode": "EC",
@@ -630,8 +614,7 @@
                 "capital": "Quito",
                 "continentName": "South America",
                 "emoji":"🇪🇨",
-                        "unicode":"U+1F1EA U+1F1E8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EC.svg"
+                        "unicode":"U+1F1EA U+1F1E8"
             },
             {
                 "countryCode": "EE",
@@ -641,8 +624,7 @@
                 "capital": "Tallinn",
                 "continentName": "Europe",
                 "emoji":"🇪🇪",
-                        "unicode":"U+1F1EA U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EE.svg"
+                        "unicode":"U+1F1EA U+1F1EA"
             },
             {
                 "countryCode": "EG",
@@ -652,8 +634,7 @@
                 "capital": "Cairo",
                 "continentName": "Africa",
                 "emoji":"🇪🇬",
-                        "unicode":"U+1F1EA U+1F1EC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EG.svg"
+                        "unicode":"U+1F1EA U+1F1EC"
             },
             {
                 "countryCode": "EH",
@@ -663,8 +644,7 @@
                 "capital": "Laâyoune / El Aaiún",
                 "continentName": "Africa",
                 "emoji":"🇪🇭",
-                        "unicode":"U+1F1EA U+1F1ED",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/EH.svg"
+                        "unicode":"U+1F1EA U+1F1ED"
             },
             {
                 "countryCode": "ER",
@@ -674,8 +654,7 @@
                 "capital": "Asmara",
                 "continentName": "Africa",
                 "emoji":"🇪🇷",
-                        "unicode":"U+1F1EA U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ER.svg"
+                        "unicode":"U+1F1EA U+1F1F7"
             },
             {
                 "countryCode": "ES",
@@ -685,8 +664,7 @@
                 "capital": "Madrid",
                 "continentName": "Europe",
                 "emoji":"🇪🇸",
-                        "unicode":"U+1F1EA U+1F1F8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ES.svg"
+                        "unicode":"U+1F1EA U+1F1F8"
             },
             {
                 "countryCode": "ET",
@@ -696,8 +674,7 @@
                 "capital": "Addis Ababa",
                 "continentName": "Africa",
                 "emoji":"🇪🇹",
-                        "unicode":"U+1F1EA U+1F1F9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ET.svg"
+                        "unicode":"U+1F1EA U+1F1F9"
             },
             {
                 "countryCode": "FI",
@@ -707,8 +684,7 @@
                 "capital": "Helsinki",
                 "continentName": "Europe",
                 "emoji":"🇫🇮",
-                        "unicode":"U+1F1EB U+1F1EE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FI.svg"
+                        "unicode":"U+1F1EB U+1F1EE"
             },
             {
                 "countryCode": "FJ",
@@ -718,8 +694,7 @@
                 "capital": "Suva",
                 "continentName": "Oceania",
                 "emoji":"🇫🇯",
-                        "unicode":"U+1F1EB U+1F1EF",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FJ.svg"
+                        "unicode":"U+1F1EB U+1F1EF"
             },
             {
                 "countryCode": "FK",
@@ -729,8 +704,7 @@
                 "capital": "Stanley",
                 "continentName": "South America",
                 "emoji":"🇫🇰",
-                        "unicode":"U+1F1EB U+1F1F0",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FK.svg"
+                        "unicode":"U+1F1EB U+1F1F0"
             },
             {
                 "countryCode": "FM",
@@ -740,8 +714,7 @@
                 "capital": "Palikir",
                 "continentName": "Oceania",
                 "emoji":"🇫🇲",
-                        "unicode":"U+1F1EB U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FM.svg"
+                        "unicode":"U+1F1EB U+1F1F2"
             },
             {
                 "countryCode": "FO",
@@ -751,8 +724,7 @@
                 "capital": "Tórshavn",
                 "continentName": "Europe",
                 "emoji":"🇫🇴",
-                        "unicode":"U+1F1EB U+1F1F4",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FO.svg"
+                        "unicode":"U+1F1EB U+1F1F4"
             },
             {
                 "countryCode": "FR",
@@ -762,8 +734,7 @@
                 "capital": "Paris",
                 "continentName": "Europe",
                 "emoji":"🇫🇷",
-                        "unicode":"U+1F1EB U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/FR.svg"
+                        "unicode":"U+1F1EB U+1F1F7"
             },
             {
                 "countryCode": "GA",
@@ -773,8 +744,7 @@
                 "capital": "Libreville",
                 "continentName": "Africa",
                 "emoji":"🇬🇦",
-                        "unicode":"U+1F1EC U+1F1E6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GA.svg"
+                        "unicode":"U+1F1EC U+1F1E6"
             },
             {
                 "countryCode": "GB",
@@ -784,8 +754,7 @@
                 "capital": "London",
                 "continentName": "Europe",
                 "emoji":"🇬🇧",
-                        "unicode":"U+1F1EC U+1F1E7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GB.svg"
+                        "unicode":"U+1F1EC U+1F1E7"
             },
             {
                 "countryCode": "GD",
@@ -795,8 +764,7 @@
                 "capital": "St. George's",
                 "continentName": "North America",
                 "emoji":"🇬🇩",
-                        "unicode":"U+1F1EC U+1F1E9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GD.svg"
+                        "unicode":"U+1F1EC U+1F1E9"
             },
             {
                 "countryCode": "GE",
@@ -806,8 +774,7 @@
                 "capital": "Tbilisi",
                 "continentName": "Asia",
                 "emoji":"🇬🇪",
-                        "unicode":"U+1F1EC U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GE.svg"
+                        "unicode":"U+1F1EC U+1F1EA"
             },
             {
                 "countryCode": "GF",
@@ -817,8 +784,7 @@
                 "capital": "Cayenne",
                 "continentName": "South America",
                 "emoji":"🇬🇫",
-                        "unicode":"U+1F1EC U+1F1EB",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GF.svg"
+                        "unicode":"U+1F1EC U+1F1EB"
             },
             {
                 "countryCode": "GG",
@@ -828,8 +794,7 @@
                 "capital": "St Peter Port",
                 "continentName": "Europe",
                 "emoji":"🇬🇬",
-                        "unicode":"U+1F1EC U+1F1EC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GG.svg"
+                        "unicode":"U+1F1EC U+1F1EC"
             },
             {
                 "countryCode": "GH",
@@ -839,8 +804,7 @@
                 "capital": "Accra",
                 "continentName": "Africa",
                 "emoji":"🇬🇭",
-                        "unicode":"U+1F1EC U+1F1ED",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GH.svg"
+                        "unicode":"U+1F1EC U+1F1ED"
             },
             {
                 "countryCode": "GI",
@@ -850,8 +814,7 @@
                 "capital": "Gibraltar",
                 "continentName": "Europe",
                 "emoji":"🇬🇮",
-                        "unicode":"U+1F1EC U+1F1EE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GI.svg"
+                        "unicode":"U+1F1EC U+1F1EE"
             },
             {
                 "countryCode": "GL",
@@ -861,8 +824,7 @@
                 "capital": "Nuuk",
                 "continentName": "North America",
                 "emoji":"🇬🇱",
-                        "unicode":"U+1F1EC U+1F1F1",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GL.svg"
+                        "unicode":"U+1F1EC U+1F1F1"
             },
             {
                 "countryCode": "GM",
@@ -872,8 +834,7 @@
                 "capital": "Bathurst",
                 "continentName": "Africa",
                 "emoji":"🇬🇲",
-                        "unicode":"U+1F1EC U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GM.svg"
+                        "unicode":"U+1F1EC U+1F1F2"
             },
             {
                 "countryCode": "GN",
@@ -883,8 +844,7 @@
                 "capital": "Conakry",
                 "continentName": "Africa",
                 "emoji":"🇬🇳",
-                        "unicode":"U+1F1EC U+1F1F3",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GN.svg"
+                        "unicode":"U+1F1EC U+1F1F3"
             },
             {
                 "countryCode": "GP",
@@ -894,8 +854,7 @@
                 "capital": "Basse-Terre",
                 "continentName": "North America",
                 "emoji":"🇬🇵",
-                        "unicode":"U+1F1EC U+1F1F5",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GP.svg"
+                        "unicode":"U+1F1EC U+1F1F5"
             },
             {
                 "countryCode": "GQ",
@@ -905,8 +864,7 @@
                 "capital": "Malabo",
                 "continentName": "Africa",
                 "emoji":"🇬🇶",
-                        "unicode":"U+1F1EC U+1F1F6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GQ.svg"
+                        "unicode":"U+1F1EC U+1F1F6"
             },
             {
                 "countryCode": "GR",
@@ -916,8 +874,7 @@
                 "capital": "Athens",
                 "continentName": "Europe",
                 "emoji":"🇬🇷",
-                        "unicode":"U+1F1EC U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GR.svg"
+                        "unicode":"U+1F1EC U+1F1F7"
             },
             {
                 "countryCode": "GS",
@@ -927,8 +884,7 @@
                 "capital": "Grytviken",
                 "continentName": "Antarctica",
                 "emoji":"🇬🇸",
-                        "unicode":"U+1F1EC U+1F1F8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GS.svg"
+                        "unicode":"U+1F1EC U+1F1F8"
             },
             {
                 "countryCode": "GT",
@@ -938,8 +894,7 @@
                 "capital": "Guatemala City",
                 "continentName": "North America",
                 "emoji":"🇬🇹",
-                        "unicode":"U+1F1EC U+1F1F9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GT.svg"
+                        "unicode":"U+1F1EC U+1F1F9"
             },
             {
                 "countryCode": "GU",
@@ -949,8 +904,7 @@
                 "capital": "Hagåtña",
                 "continentName": "Oceania",
                 "emoji":"🇬🇺",
-                        "unicode":"U+1F1EC U+1F1FA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GU.svg"
+                        "unicode":"U+1F1EC U+1F1FA"
             },
             {
                 "countryCode": "GW",
@@ -960,8 +914,7 @@
                 "capital": "Bissau",
                 "continentName": "Africa",
                 "emoji":"🇬🇼",
-                        "unicode":"U+1F1EC U+1F1FC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GW.svg"
+                        "unicode":"U+1F1EC U+1F1FC"
             },
             {
                 "countryCode": "GY",
@@ -971,8 +924,7 @@
                 "capital": "Georgetown",
                 "continentName": "South America",
                 "emoji":"🇬🇾",
-                        "unicode":"U+1F1EC U+1F1FE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/GY.svg"
+                        "unicode":"U+1F1EC U+1F1FE"
             },
             {
                 "countryCode": "HK",
@@ -982,8 +934,7 @@
                 "capital": "Hong Kong",
                 "continentName": "Asia",
                 "emoji":"🇭🇰",
-                        "unicode":"U+1F1ED U+1F1F0",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HK.svg"
+                        "unicode":"U+1F1ED U+1F1F0"
             },
             {
                 "countryCode": "HM",
@@ -993,8 +944,7 @@
                 "capital": "",
                 "continentName": "Antarctica",
                 "emoji":"🇭🇲",
-                        "unicode":"U+1F1ED U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HM.svg"
+                        "unicode":"U+1F1ED U+1F1F2"
             },
             {
                 "countryCode": "HN",
@@ -1004,8 +954,7 @@
                 "capital": "Tegucigalpa",
                 "continentName": "North America",
                 "emoji":"🇭🇳",
-                        "unicode":"U+1F1ED U+1F1F3",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HN.svg"
+                        "unicode":"U+1F1ED U+1F1F3"
             },
             {
                 "countryCode": "HR",
@@ -1015,8 +964,7 @@
                 "capital": "Zagreb",
                 "continentName": "Europe",
                 "emoji":"🇭🇷",
-                        "unicode":"U+1F1ED U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HR.svg"
+                        "unicode":"U+1F1ED U+1F1F7"
             },
             {
                 "countryCode": "HT",
@@ -1026,8 +974,7 @@
                 "capital": "Port-au-Prince",
                 "continentName": "North America",
                 "emoji":"🇭🇹",
-                        "unicode":"U+1F1ED U+1F1F9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HT.svg"
+                        "unicode":"U+1F1ED U+1F1F9"
             },
             {
                 "countryCode": "HU",
@@ -1037,8 +984,7 @@
                 "capital": "Budapest",
                 "continentName": "Europe",
                 "emoji":"🇭🇺",
-                        "unicode":"U+1F1ED U+1F1FA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/HU.svg"
+                        "unicode":"U+1F1ED U+1F1FA"
             },
             {
                 "countryCode": "ID",
@@ -1048,8 +994,7 @@
                 "capital": "Jakarta",
                 "continentName": "Asia",
                 "emoji":"🇮🇩",
-                        "unicode":"U+1F1EE U+1F1E9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ID.svg"
+                        "unicode":"U+1F1EE U+1F1E9"
             },
             {
                 "countryCode": "IE",
@@ -1059,8 +1004,7 @@
                 "capital": "Dublin",
                 "continentName": "Europe",
                 "emoji":"🇮🇪",
-                        "unicode":"U+1F1EE U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IE.svg"
+                        "unicode":"U+1F1EE U+1F1EA"
             },
             {
                 "countryCode": "IL",
@@ -1070,8 +1014,7 @@
                 "capital": "",
                 "continentName": "Asia",
                 "emoji":"🇮🇱",
-                        "unicode":"U+1F1EE U+1F1F1",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IL.svg"
+                        "unicode":"U+1F1EE U+1F1F1"
             },
             {
                 "countryCode": "IM",
@@ -1081,8 +1024,7 @@
                 "capital": "Douglas",
                 "continentName": "Europe",
                 "emoji":"🇮🇲",
-                        "unicode":"U+1F1EE U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IM.svg"
+                        "unicode":"U+1F1EE U+1F1F2"
             },
             {
                 "countryCode": "IN",
@@ -1092,8 +1034,7 @@
                 "capital": "New Delhi",
                 "continentName": "Asia",
                 "emoji":"🇮🇳",
-                        "unicode":"U+1F1EE U+1F1F3",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IN.svg"
+                        "unicode":"U+1F1EE U+1F1F3"
             },
             {
                 "countryCode": "IO",
@@ -1103,8 +1044,7 @@
                 "capital": "",
                 "continentName": "Asia",
                 "emoji":"🇮🇴",
-                        "unicode":"U+1F1EE U+1F1F4",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IO.svg"
+                        "unicode":"U+1F1EE U+1F1F4"
             },
             {
                 "countryCode": "IQ",
@@ -1114,8 +1054,7 @@
                 "capital": "Baghdad",
                 "continentName": "Asia",
                 "emoji":"🇮🇶",
-                        "unicode":"U+1F1EE U+1F1F6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IQ.svg"
+                        "unicode":"U+1F1EE U+1F1F6"
             },
             {
                 "countryCode": "IR",
@@ -1125,8 +1064,7 @@
                 "capital": "Tehran",
                 "continentName": "Asia",
                 "emoji":"🇮🇷",
-                        "unicode":"U+1F1EE U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IR.svg"
+                        "unicode":"U+1F1EE U+1F1F7"
             },
             {
                 "countryCode": "IS",
@@ -1136,8 +1074,7 @@
                 "capital": "Reykjavik",
                 "continentName": "Europe",
                 "emoji":"🇮🇸",
-                        "unicode":"U+1F1EE U+1F1F8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IS.svg"
+                        "unicode":"U+1F1EE U+1F1F8"
             },
             {
                 "countryCode": "IT",
@@ -1147,8 +1084,7 @@
                 "capital": "Rome",
                 "continentName": "Europe",
                 "emoji":"🇮🇹",
-                        "unicode":"U+1F1EE U+1F1F9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/IT.svg"
+                        "unicode":"U+1F1EE U+1F1F9"
             },
             {
                 "countryCode": "JE",
@@ -1158,8 +1094,7 @@
                 "capital": "Saint Helier",
                 "continentName": "Europe",
                 "emoji":"🇯🇪",
-                        "unicode":"U+1F1EF U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JE.svg"
+                        "unicode":"U+1F1EF U+1F1EA"
             },
             {
                 "countryCode": "JM",
@@ -1169,8 +1104,7 @@
                 "capital": "Kingston",
                 "continentName": "North America",
                 "emoji":"🇯🇲",
-                        "unicode":"U+1F1EF U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JM.svg"
+                        "unicode":"U+1F1EF U+1F1F2"
             },
             {
                 "countryCode": "JO",
@@ -1180,8 +1114,7 @@
                 "capital": "Amman",
                 "continentName": "Asia",
                 "emoji":"🇯🇴",
-                        "unicode":"U+1F1EF U+1F1F4",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JO.svg"
+                        "unicode":"U+1F1EF U+1F1F4"
             },
             {
                 "countryCode": "JP",
@@ -1191,8 +1124,7 @@
                 "capital": "Tokyo",
                 "continentName": "Asia",
                 "emoji":"🇯🇵",
-                        "unicode":"U+1F1EF U+1F1F5",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/JP.svg"
+                        "unicode":"U+1F1EF U+1F1F5"
             },
             {
                 "countryCode": "KE",
@@ -1202,8 +1134,7 @@
                 "capital": "Nairobi",
                 "continentName": "Africa",
                 "emoji":"🇰🇪",
-                        "unicode":"U+1F1F0 U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KE.svg"
+                        "unicode":"U+1F1F0 U+1F1EA"
             },
             {
                 "countryCode": "KG",
@@ -1213,8 +1144,7 @@
                 "capital": "Bishkek",
                 "continentName": "Asia",
                 "emoji":"🇰🇬",
-                        "unicode":"U+1F1F0 U+1F1EC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KG.svg"
+                        "unicode":"U+1F1F0 U+1F1EC"
             },
             {
                 "countryCode": "KH",
@@ -1224,8 +1154,7 @@
                 "capital": "Phnom Penh",
                 "continentName": "Asia",
                 "emoji":"🇰🇭",
-                        "unicode":"U+1F1F0 U+1F1ED",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KH.svg"
+                        "unicode":"U+1F1F0 U+1F1ED"
             },
             {
                 "countryCode": "KI",
@@ -1235,8 +1164,7 @@
                 "capital": "Tarawa",
                 "continentName": "Oceania",
                 "emoji":"🇰🇮",
-                        "unicode":"U+1F1F0 U+1F1EE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KI.svg"
+                        "unicode":"U+1F1F0 U+1F1EE"
             },
             {
                 "countryCode": "KM",
@@ -1246,8 +1174,7 @@
                 "capital": "Moroni",
                 "continentName": "Africa",
                 "emoji":"🇰🇲",
-                        "unicode":"U+1F1F0 U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KM.svg"
+                        "unicode":"U+1F1F0 U+1F1F2"
             },
             {
                 "countryCode": "KN",
@@ -1257,8 +1184,7 @@
                 "capital": "Basseterre",
                 "continentName": "North America",
                 "emoji":"🇰🇳",
-                        "unicode":"U+1F1F0 U+1F1F3",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KN.svg"
+                        "unicode":"U+1F1F0 U+1F1F3"
             },
             {
                 "countryCode": "KP",
@@ -1268,8 +1194,7 @@
                 "capital": "Pyongyang",
                 "continentName": "Asia",
                 "emoji":"🇰🇵",
-                        "unicode":"U+1F1F0 U+1F1F5",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KP.svg"
+                        "unicode":"U+1F1F0 U+1F1F5"
             },
             {
                 "countryCode": "KR",
@@ -1279,8 +1204,7 @@
                 "capital": "Seoul",
                 "continentName": "Asia",
                 "emoji":"🇰🇷",
-                        "unicode":"U+1F1F0 U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KR.svg"
+                        "unicode":"U+1F1F0 U+1F1F7"
             },
             {
                 "countryCode": "KW",
@@ -1290,8 +1214,7 @@
                 "capital": "Kuwait City",
                 "continentName": "Asia",
                 "emoji":"🇰🇼",
-                        "unicode":"U+1F1F0 U+1F1FC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KW.svg"
+                        "unicode":"U+1F1F0 U+1F1FC"
             },
             {
                 "countryCode": "KY",
@@ -1301,8 +1224,7 @@
                 "capital": "George Town",
                 "continentName": "North America",
                 "emoji":"🇰🇾",
-                        "unicode":"U+1F1F0 U+1F1FE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KY.svg"
+                        "unicode":"U+1F1F0 U+1F1FE"
             },
             {
                 "countryCode": "KZ",
@@ -1312,8 +1234,7 @@
                 "capital": "Astana",
                 "continentName": "Asia",
                 "emoji":"🇰🇿",
-                        "unicode":"U+1F1F0 U+1F1FF",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/KZ.svg"
+                        "unicode":"U+1F1F0 U+1F1FF"
             },
             {
                 "countryCode": "LA",
@@ -1323,8 +1244,7 @@
                 "capital": "Vientiane",
                 "continentName": "Asia",
                 "emoji":"🇱🇦",
-                        "unicode":"U+1F1F1 U+1F1E6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LA.svg"
+                        "unicode":"U+1F1F1 U+1F1E6"
             },
             {
                 "countryCode": "LB",
@@ -1334,8 +1254,7 @@
                 "capital": "Beirut",
                 "continentName": "Asia",
                 "emoji":"🇱🇧",
-                        "unicode":"U+1F1F1 U+1F1E7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LB.svg"
+                        "unicode":"U+1F1F1 U+1F1E7"
             },
             {
                 "countryCode": "LC",
@@ -1345,8 +1264,7 @@
                 "capital": "Castries",
                 "continentName": "North America",
                 "emoji":"🇱🇨",
-                        "unicode":"U+1F1F1 U+1F1E8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LC.svg"
+                        "unicode":"U+1F1F1 U+1F1E8"
             },
             {
                 "countryCode": "LI",
@@ -1356,8 +1274,7 @@
                 "capital": "Vaduz",
                 "continentName": "Europe",
                 "emoji":"🇱🇮",
-                        "unicode":"U+1F1F1 U+1F1EE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LI.svg"
+                        "unicode":"U+1F1F1 U+1F1EE"
             },
             {
                 "countryCode": "LK",
@@ -1367,8 +1284,7 @@
                 "capital": "Colombo",
                 "continentName": "Asia",
                 "emoji":"🇱🇰",
-                        "unicode":"U+1F1F1 U+1F1F0",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LK.svg"
+                        "unicode":"U+1F1F1 U+1F1F0"
             },
             {
                 "countryCode": "LR",
@@ -1378,8 +1294,7 @@
                 "capital": "Monrovia",
                 "continentName": "Africa",
                 "emoji":"🇱🇷",
-                        "unicode":"U+1F1F1 U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LR.svg"
+                        "unicode":"U+1F1F1 U+1F1F7"
             },
             {
                 "countryCode": "LS",
@@ -1389,8 +1304,7 @@
                 "capital": "Maseru",
                 "continentName": "Africa",
                 "emoji":"🇱🇸",
-                        "unicode":"U+1F1F1 U+1F1F8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LS.svg"
+                        "unicode":"U+1F1F1 U+1F1F8"
             },
             {
                 "countryCode": "LT",
@@ -1400,8 +1314,7 @@
                 "capital": "Vilnius",
                 "continentName": "Europe",
                 "emoji":"🇱🇹",
-                        "unicode":"U+1F1F1 U+1F1F9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LT.svg"
+                        "unicode":"U+1F1F1 U+1F1F9"
             },
             {
                 "countryCode": "LU",
@@ -1411,8 +1324,7 @@
                 "capital": "Luxembourg",
                 "continentName": "Europe",
                 "emoji":"🇱🇺",
-                        "unicode":"U+1F1F1 U+1F1FA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LU.svg"
+                        "unicode":"U+1F1F1 U+1F1FA"
             },
             {
                 "countryCode": "LV",
@@ -1422,8 +1334,7 @@
                 "capital": "Riga",
                 "continentName": "Europe",
                 "emoji":"🇱🇻",
-                        "unicode":"U+1F1F1 U+1F1FB",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LV.svg"
+                        "unicode":"U+1F1F1 U+1F1FB"
             },
             {
                 "countryCode": "LY",
@@ -1433,8 +1344,7 @@
                 "capital": "Tripoli",
                 "continentName": "Africa",
                 "emoji":"🇱🇾",
-                        "unicode":"U+1F1F1 U+1F1FE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/LY.svg"
+                        "unicode":"U+1F1F1 U+1F1FE"
             },
             {
                 "countryCode": "MA",
@@ -1444,8 +1354,7 @@
                 "capital": "Rabat",
                 "continentName": "Africa",
                 "emoji":"🇲🇦",
-                        "unicode":"U+1F1F2 U+1F1E6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MA.svg"
+                        "unicode":"U+1F1F2 U+1F1E6"
             },
             {
                 "countryCode": "MC",
@@ -1455,8 +1364,7 @@
                 "capital": "Monaco",
                 "continentName": "Europe",
                 "emoji":"🇲🇨",
-                        "unicode":"U+1F1F2 U+1F1E8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MC.svg"
+                        "unicode":"U+1F1F2 U+1F1E8"
             },
             {
                 "countryCode": "MD",
@@ -1466,8 +1374,7 @@
                 "capital": "Chişinău",
                 "continentName": "Europe",
                 "emoji":"🇲🇩",
-                        "unicode":"U+1F1F2 U+1F1E9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MD.svg"
+                        "unicode":"U+1F1F2 U+1F1E9"
             },
             {
                 "countryCode": "ME",
@@ -1477,8 +1384,7 @@
                 "capital": "Podgorica",
                 "continentName": "Europe",
                 "emoji":"🇲🇪",
-                        "unicode":"U+1F1F2 U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ME.svg"
+                        "unicode":"U+1F1F2 U+1F1EA"
             },
             {
                 "countryCode": "MF",
@@ -1488,8 +1394,7 @@
                 "capital": "Marigot",
                 "continentName": "North America",
                 "emoji":"🇲🇫",
-                        "unicode":"U+1F1F2 U+1F1EB",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MF.svg"
+                        "unicode":"U+1F1F2 U+1F1EB"
             },
             {
                 "countryCode": "MG",
@@ -1499,8 +1404,7 @@
                 "capital": "Antananarivo",
                 "continentName": "Africa",
                 "emoji":"🇲🇬",
-                        "unicode":"U+1F1F2 U+1F1EC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MG.svg"
+                        "unicode":"U+1F1F2 U+1F1EC"
             },
             {
                 "countryCode": "MH",
@@ -1510,8 +1414,7 @@
                 "capital": "Majuro",
                 "continentName": "Oceania",
                 "emoji":"🇲🇭",
-                        "unicode":"U+1F1F2 U+1F1ED",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MH.svg"
+                        "unicode":"U+1F1F2 U+1F1ED"
             },
             {
                 "countryCode": "MK",
@@ -1521,8 +1424,7 @@
                 "capital": "Skopje",
                 "continentName": "Europe",
                 "emoji":"🇲🇰",
-                        "unicode":"U+1F1F2 U+1F1F0",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MK.svg"
+                        "unicode":"U+1F1F2 U+1F1F0"
             },
             {
                 "countryCode": "ML",
@@ -1532,8 +1434,7 @@
                 "capital": "Bamako",
                 "continentName": "Africa",
                 "emoji":"🇲🇱",
-                        "unicode":"U+1F1F2 U+1F1F1",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ML.svg"
+                        "unicode":"U+1F1F2 U+1F1F1"
             },
             {
                 "countryCode": "MM",
@@ -1543,8 +1444,7 @@
                 "capital": "Naypyitaw",
                 "continentName": "Asia",
                 "emoji":"🇲🇲",
-                        "unicode":"U+1F1F2 U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MM.svg"
+                        "unicode":"U+1F1F2 U+1F1F2"
             },
             {
                 "countryCode": "MN",
@@ -1554,8 +1454,7 @@
                 "capital": "Ulan Bator",
                 "continentName": "Asia",
                 "emoji":"🇲🇳",
-                        "unicode":"U+1F1F2 U+1F1F3",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MN.svg"
+                        "unicode":"U+1F1F2 U+1F1F3"
             },
             {
                 "countryCode": "MO",
@@ -1565,8 +1464,7 @@
                 "capital": "Macao",
                 "continentName": "Asia",
                 "emoji":"🇲🇴",
-                        "unicode":"U+1F1F2 U+1F1F4",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MO.svg"
+                        "unicode":"U+1F1F2 U+1F1F4"
             },
             {
                 "countryCode": "MP",
@@ -1576,8 +1474,7 @@
                 "capital": "Saipan",
                 "continentName": "Oceania",
                 "emoji":"🇲🇵",
-                        "unicode":"U+1F1F2 U+1F1F5",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MP.svg"
+                        "unicode":"U+1F1F2 U+1F1F5"
             },
             {
                 "countryCode": "MQ",
@@ -1587,8 +1484,7 @@
                 "capital": "Fort-de-France",
                 "continentName": "North America",
                 "emoji":"🇲🇶",
-                        "unicode":"U+1F1F2 U+1F1F6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MQ.svg"
+                        "unicode":"U+1F1F2 U+1F1F6"
             },
             {
                 "countryCode": "MR",
@@ -1598,8 +1494,7 @@
                 "capital": "Nouakchott",
                 "continentName": "Africa",
                 "emoji":"🇲🇷",
-                        "unicode":"U+1F1F2 U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MR.svg"
+                        "unicode":"U+1F1F2 U+1F1F7"
             },
             {
                 "countryCode": "MS",
@@ -1609,8 +1504,7 @@
                 "capital": "Plymouth",
                 "continentName": "North America",
                 "emoji":"🇲🇸",
-                        "unicode":"U+1F1F2 U+1F1F8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MS.svg"
+                        "unicode":"U+1F1F2 U+1F1F8"
             },
             {
                 "countryCode": "MT",
@@ -1620,8 +1514,7 @@
                 "capital": "Valletta",
                 "continentName": "Europe",
                 "emoji":"🇲🇹",
-                        "unicode":"U+1F1F2 U+1F1F9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MT.svg"
+                        "unicode":"U+1F1F2 U+1F1F9"
             },
             {
                 "countryCode": "MU",
@@ -1631,8 +1524,7 @@
                 "capital": "Port Louis",
                 "continentName": "Africa",
                 "emoji":"🇲🇺",
-                        "unicode":"U+1F1F2 U+1F1FA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MU.svg"
+                        "unicode":"U+1F1F2 U+1F1FA"
             },
             {
                 "countryCode": "MV",
@@ -1642,8 +1534,7 @@
                 "capital": "Malé",
                 "continentName": "Asia",
                 "emoji":"🇲🇻",
-                        "unicode":"U+1F1F2 U+1F1FB",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MV.svg"
+                        "unicode":"U+1F1F2 U+1F1FB"
             },
             {
                 "countryCode": "MW",
@@ -1653,8 +1544,7 @@
                 "capital": "Lilongwe",
                 "continentName": "Africa",
                 "emoji":"🇲🇼",
-                        "unicode":"U+1F1F2 U+1F1FC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MW.svg"
+                        "unicode":"U+1F1F2 U+1F1FC"
             },
             {
                 "countryCode": "MX",
@@ -1664,8 +1554,7 @@
                 "capital": "Mexico City",
                 "continentName": "North America",
                 "emoji":"🇲🇽",
-                        "unicode":"U+1F1F2 U+1F1FD",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MX.svg"
+                        "unicode":"U+1F1F2 U+1F1FD"
             },
             {
                 "countryCode": "MY",
@@ -1675,8 +1564,7 @@
                 "capital": "Kuala Lumpur",
                 "continentName": "Asia",
                 "emoji":"🇲🇾",
-                        "unicode":"U+1F1F2 U+1F1FE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MY.svg"
+                        "unicode":"U+1F1F2 U+1F1FE"
             },
             {
                 "countryCode": "MZ",
@@ -1686,8 +1574,7 @@
                 "capital": "Maputo",
                 "continentName": "Africa",
                 "emoji":"🇲🇿",
-                        "unicode":"U+1F1F2 U+1F1FF",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/MZ.svg"
+                        "unicode":"U+1F1F2 U+1F1FF"
             },
             {
                 "countryCode": "NA",
@@ -1697,8 +1584,7 @@
                 "capital": "Windhoek",
                 "continentName": "Africa",
                 "emoji":"🇳🇦",
-                        "unicode":"U+1F1F3 U+1F1E6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NA.svg"
+                        "unicode":"U+1F1F3 U+1F1E6"
             },
             {
                 "countryCode": "NC",
@@ -1708,8 +1594,7 @@
                 "capital": "Noumea",
                 "continentName": "Oceania",
                 "emoji":"🇳🇨",
-                        "unicode":"U+1F1F3 U+1F1E8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NC.svg"
+                        "unicode":"U+1F1F3 U+1F1E8"
             },
             {
                 "countryCode": "NE",
@@ -1719,8 +1604,7 @@
                 "capital": "Niamey",
                 "continentName": "Africa",
                 "emoji":"🇳🇪",
-                        "unicode":"U+1F1F3 U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NE.svg"
+                        "unicode":"U+1F1F3 U+1F1EA"
             },
             {
                 "countryCode": "NF",
@@ -1730,8 +1614,7 @@
                 "capital": "Kingston",
                 "continentName": "Oceania",
                 "emoji":"🇳🇫",
-                        "unicode":"U+1F1F3 U+1F1EB",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NF.svg"
+                        "unicode":"U+1F1F3 U+1F1EB"
             },
             {
                 "countryCode": "NG",
@@ -1741,8 +1624,7 @@
                 "capital": "Abuja",
                 "continentName": "Africa",
                 "emoji":"🇳🇬",
-                        "unicode":"U+1F1F3 U+1F1EC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NG.svg"
+                        "unicode":"U+1F1F3 U+1F1EC"
             },
             {
                 "countryCode": "NI",
@@ -1752,8 +1634,7 @@
                 "capital": "Managua",
                 "continentName": "North America",
                 "emoji":"🇳🇮",
-                        "unicode":"U+1F1F3 U+1F1EE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NI.svg"
+                        "unicode":"U+1F1F3 U+1F1EE"
             },
             {
                 "countryCode": "NL",
@@ -1763,8 +1644,7 @@
                 "capital": "Amsterdam",
                 "continentName": "Europe",
                 "emoji":"🇳🇱",
-                        "unicode":"U+1F1F3 U+1F1F1",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NL.svg"
+                        "unicode":"U+1F1F3 U+1F1F1"
             },
             {
                 "countryCode": "NO",
@@ -1774,8 +1654,7 @@
                 "capital": "Oslo",
                 "continentName": "Europe",
                 "emoji":"🇳🇴",
-                        "unicode":"U+1F1F3 U+1F1F4",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NO.svg"
+                        "unicode":"U+1F1F3 U+1F1F4"
             },
             {
                 "countryCode": "NP",
@@ -1785,8 +1664,7 @@
                 "capital": "Kathmandu",
                 "continentName": "Asia",
                 "emoji":"🇳🇵",
-                        "unicode":"U+1F1F3 U+1F1F5",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NP.svg"
+                        "unicode":"U+1F1F3 U+1F1F5"
             },
             {
                 "countryCode": "NR",
@@ -1796,8 +1674,7 @@
                 "capital": "Yaren",
                 "continentName": "Oceania",
                 "emoji":"🇳🇷",
-                        "unicode":"U+1F1F3 U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NR.svg"
+                        "unicode":"U+1F1F3 U+1F1F7"
             },
             {
                 "countryCode": "NU",
@@ -1807,8 +1684,7 @@
                 "capital": "Alofi",
                 "continentName": "Oceania",
                 "emoji":"🇳🇺",
-                        "unicode":"U+1F1F3 U+1F1FA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NU.svg"
+                        "unicode":"U+1F1F3 U+1F1FA"
             },
             {
                 "countryCode": "NZ",
@@ -1818,8 +1694,7 @@
                 "capital": "Wellington",
                 "continentName": "Oceania",
                 "emoji":"🇳🇿",
-                        "unicode":"U+1F1F3 U+1F1FF",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/NZ.svg"
+                        "unicode":"U+1F1F3 U+1F1FF"
             },
             {
                 "countryCode": "OM",
@@ -1829,8 +1704,7 @@
                 "capital": "Muscat",
                 "continentName": "Asia",
                 "emoji":"🇴🇲",
-                        "unicode":"U+1F1F4 U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/OM.svg"
+                        "unicode":"U+1F1F4 U+1F1F2"
             },
             {
                 "countryCode": "PA",
@@ -1840,8 +1714,7 @@
                 "capital": "Panama City",
                 "continentName": "North America",
                 "emoji":"🇵🇦",
-                        "unicode":"U+1F1F5 U+1F1E6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PA.svg"
+                        "unicode":"U+1F1F5 U+1F1E6"
             },
             {
                 "countryCode": "PE",
@@ -1851,8 +1724,7 @@
                 "capital": "Lima",
                 "continentName": "South America",
                 "emoji":"🇵🇪",
-                        "unicode":"U+1F1F5 U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PE.svg"
+                        "unicode":"U+1F1F5 U+1F1EA"
             },
             {
                 "countryCode": "PF",
@@ -1862,8 +1734,7 @@
                 "capital": "Papeete",
                 "continentName": "Oceania",
                 "emoji":"🇵🇫",
-                        "unicode":"U+1F1F5 U+1F1EB",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PF.svg"
+                        "unicode":"U+1F1F5 U+1F1EB"
             },
             {
                 "countryCode": "PG",
@@ -1873,8 +1744,7 @@
                 "capital": "Port Moresby",
                 "continentName": "Oceania",
                 "emoji":"🇵🇬",
-                        "unicode":"U+1F1F5 U+1F1EC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PG.svg"
+                        "unicode":"U+1F1F5 U+1F1EC"
             },
             {
                 "countryCode": "PH",
@@ -1884,8 +1754,7 @@
                 "capital": "Manila",
                 "continentName": "Asia",
                 "emoji":"🇵🇭",
-                        "unicode":"U+1F1F5 U+1F1ED",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PH.svg"
+                        "unicode":"U+1F1F5 U+1F1ED"
             },
             {
                 "countryCode": "PK",
@@ -1895,8 +1764,7 @@
                 "capital": "Islamabad",
                 "continentName": "Asia",
                 "emoji":"🇵🇰",
-                        "unicode":"U+1F1F5 U+1F1F0",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PK.svg"
+                        "unicode":"U+1F1F5 U+1F1F0"
             },
             {
                 "countryCode": "PL",
@@ -1906,8 +1774,7 @@
                 "capital": "Warsaw",
                 "continentName": "Europe",
                 "emoji":"🇵🇱",
-                        "unicode":"U+1F1F5 U+1F1F1",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PL.svg"
+                        "unicode":"U+1F1F5 U+1F1F1"
             },
             {
                 "countryCode": "PM",
@@ -1917,8 +1784,7 @@
                 "capital": "Saint-Pierre",
                 "continentName": "North America",
                 "emoji":"🇵🇲",
-                        "unicode":"U+1F1F5 U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PM.svg"
+                        "unicode":"U+1F1F5 U+1F1F2"
             },
             {
                 "countryCode": "PN",
@@ -1928,8 +1794,7 @@
                 "capital": "Adamstown",
                 "continentName": "Oceania",
                 "emoji":"🇵🇳",
-                        "unicode":"U+1F1F5 U+1F1F3",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PN.svg"
+                        "unicode":"U+1F1F5 U+1F1F3"
             },
             {
                 "countryCode": "PR",
@@ -1939,8 +1804,7 @@
                 "capital": "San Juan",
                 "continentName": "North America",
                 "emoji":"🇵🇷",
-                        "unicode":"U+1F1F5 U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PR.svg"
+                        "unicode":"U+1F1F5 U+1F1F7"
             },
             {
                 "countryCode": "PS",
@@ -1950,8 +1814,7 @@
                 "capital": "",
                 "continentName": "Asia",
                 "emoji":"🇵🇸",
-                        "unicode":"U+1F1F5 U+1F1F8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PS.svg"
+                        "unicode":"U+1F1F5 U+1F1F8"
             },
             {
                 "countryCode": "PT",
@@ -1961,8 +1824,7 @@
                 "capital": "Lisbon",
                 "continentName": "Europe",
                 "emoji":"🇵🇹",
-                        "unicode":"U+1F1F5 U+1F1F9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PT.svg"
+                        "unicode":"U+1F1F5 U+1F1F9"
             },
             {
                 "countryCode": "PW",
@@ -1972,8 +1834,7 @@
                 "capital": "Melekeok",
                 "continentName": "Oceania",
                 "emoji":"🇵🇼",
-                        "unicode":"U+1F1F5 U+1F1FC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PW.svg"
+                        "unicode":"U+1F1F5 U+1F1FC"
             },
             {
                 "countryCode": "PY",
@@ -1983,8 +1844,7 @@
                 "capital": "Asunción",
                 "continentName": "South America",
                 "emoji":"🇵🇾",
-                        "unicode":"U+1F1F5 U+1F1FE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/PY.svg"
+                        "unicode":"U+1F1F5 U+1F1FE"
             },
             {
                 "countryCode": "QA",
@@ -1994,8 +1854,7 @@
                 "capital": "Doha",
                 "continentName": "Asia",
                 "emoji":"🇶🇦",
-                        "unicode":"U+1F1F6 U+1F1E6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/QA.svg"
+                        "unicode":"U+1F1F6 U+1F1E6"
             },
             {
                 "countryCode": "RE",
@@ -2005,8 +1864,7 @@
                 "capital": "Saint-Denis",
                 "continentName": "Africa",
                 "emoji":"🇷🇪",
-                        "unicode":"U+1F1F7 U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RE.svg"
+                        "unicode":"U+1F1F7 U+1F1EA"
             },
             {
                 "countryCode": "RO",
@@ -2016,8 +1874,7 @@
                 "capital": "Bucharest",
                 "continentName": "Europe",
                 "emoji":"🇷🇴",
-                        "unicode":"U+1F1F7 U+1F1F4",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RO.svg"
+                        "unicode":"U+1F1F7 U+1F1F4"
             },
             {
                 "countryCode": "RS",
@@ -2027,8 +1884,7 @@
                 "capital": "Belgrade",
                 "continentName": "Europe",
                 "emoji":"🇷🇸",
-                        "unicode":"U+1F1F7 U+1F1F8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RS.svg"
+                        "unicode":"U+1F1F7 U+1F1F8"
             },
             {
                 "countryCode": "RU",
@@ -2038,8 +1894,7 @@
                 "capital": "Moscow",
                 "continentName": "Europe",
                 "emoji":"🇷🇺",
-                        "unicode":"U+1F1F7 U+1F1FA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RU.svg"
+                        "unicode":"U+1F1F7 U+1F1FA"
             },
             {
                 "countryCode": "RW",
@@ -2049,8 +1904,7 @@
                 "capital": "Kigali",
                 "continentName": "Africa",
                 "emoji":"🇷🇼",
-                        "unicode":"U+1F1F7 U+1F1FC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/RW.svg"
+                        "unicode":"U+1F1F7 U+1F1FC"
             },
             {
                 "countryCode": "SA",
@@ -2060,8 +1914,7 @@
                 "capital": "Riyadh",
                 "continentName": "Asia",
                 "emoji":"🇸🇦",
-                        "unicode":"U+1F1F8 U+1F1E6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SA.svg"
+                        "unicode":"U+1F1F8 U+1F1E6"
             },
             {
                 "countryCode": "SB",
@@ -2071,8 +1924,7 @@
                 "capital": "Honiara",
                 "continentName": "Oceania",
                 "emoji":"🇸🇧",
-                        "unicode":"U+1F1F8 U+1F1E7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SB.svg"
+                        "unicode":"U+1F1F8 U+1F1E7"
             },
             {
                 "countryCode": "SC",
@@ -2082,8 +1934,7 @@
                 "capital": "Victoria",
                 "continentName": "Africa",
                 "emoji":"🇸🇨",
-                        "unicode":"U+1F1F8 U+1F1E8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SC.svg"
+                        "unicode":"U+1F1F8 U+1F1E8"
             },
             {
                 "countryCode": "SD",
@@ -2093,8 +1944,7 @@
                 "capital": "Khartoum",
                 "continentName": "Africa",
                 "emoji":"🇸🇩",
-                        "unicode":"U+1F1F8 U+1F1E9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SD.svg"
+                        "unicode":"U+1F1F8 U+1F1E9"
             },
             {
                 "countryCode": "SE",
@@ -2104,8 +1954,7 @@
                 "capital": "Stockholm",
                 "continentName": "Europe",
                 "emoji":"🇸🇪",
-                        "unicode":"U+1F1F8 U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SE.svg"
+                        "unicode":"U+1F1F8 U+1F1EA"
             },
             {
                 "countryCode": "SG",
@@ -2115,8 +1964,7 @@
                 "capital": "Singapore",
                 "continentName": "Asia",
                 "emoji":"🇸🇬",
-                        "unicode":"U+1F1F8 U+1F1EC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SG.svg"
+                        "unicode":"U+1F1F8 U+1F1EC"
             },
             {
                 "countryCode": "SH",
@@ -2126,8 +1974,7 @@
                 "capital": "Jamestown",
                 "continentName": "Africa",
                 "emoji":"🇸🇭",
-                        "unicode":"U+1F1F8 U+1F1ED",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SH.svg"
+                        "unicode":"U+1F1F8 U+1F1ED"
             },
             {
                 "countryCode": "SI",
@@ -2137,8 +1984,7 @@
                 "capital": "Ljubljana",
                 "continentName": "Europe",
                 "emoji":"🇸🇮",
-                        "unicode":"U+1F1F8 U+1F1EE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SI.svg"
+                        "unicode":"U+1F1F8 U+1F1EE"
             },
             {
                 "countryCode": "SJ",
@@ -2148,8 +1994,7 @@
                 "capital": "Longyearbyen",
                 "continentName": "Europe",
                 "emoji":"🇸🇯",
-                        "unicode":"U+1F1F8 U+1F1EF",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SJ.svg"
+                        "unicode":"U+1F1F8 U+1F1EF"
             },
             {
                 "countryCode": "SK",
@@ -2159,8 +2004,7 @@
                 "capital": "Bratislava",
                 "continentName": "Europe",
                 "emoji":"🇸🇰",
-                        "unicode":"U+1F1F8 U+1F1F0",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SK.svg"
+                        "unicode":"U+1F1F8 U+1F1F0"
             },
             {
                 "countryCode": "SL",
@@ -2170,8 +2014,7 @@
                 "capital": "Freetown",
                 "continentName": "Africa",
                 "emoji":"🇸🇱",
-                        "unicode":"U+1F1F8 U+1F1F1",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SL.svg"
+                        "unicode":"U+1F1F8 U+1F1F1"
             },
             {
                 "countryCode": "SM",
@@ -2181,8 +2024,7 @@
                 "capital": "San Marino",
                 "continentName": "Europe",
                 "emoji":"🇸🇲",
-                        "unicode":"U+1F1F8 U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SM.svg"
+                        "unicode":"U+1F1F8 U+1F1F2"
             },
             {
                 "countryCode": "SN",
@@ -2192,8 +2034,7 @@
                 "capital": "Dakar",
                 "continentName": "Africa",
                 "emoji":"🇸🇳",
-                        "unicode":"U+1F1F8 U+1F1F3",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SN.svg"
+                        "unicode":"U+1F1F8 U+1F1F3"
             },
             {
                 "countryCode": "SO",
@@ -2203,8 +2044,7 @@
                 "capital": "Mogadishu",
                 "continentName": "Africa",
                 "emoji":"🇸🇴",
-                        "unicode":"U+1F1F8 U+1F1F4",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SO.svg"
+                        "unicode":"U+1F1F8 U+1F1F4"
             },
             {
                 "countryCode": "SR",
@@ -2214,8 +2054,8 @@
                 "capital": "Paramaribo",
                 "continentName": "South America",
                 "emoji":"🇸🇷",
-                        "unicode":"U+1F1F8 U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SR.svg"
+                        "unicode":"U+1F1F8 U+1F1F7"
+                        
             },
             {
                 "countryCode": "SS",
@@ -2225,8 +2065,8 @@
                 "capital": "Juba",
                 "continentName": "Africa",
                 "emoji":"🇸🇸",
-                        "unicode":"U+1F1F8 U+1F1F8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SS.svg"
+                        "unicode":"U+1F1F8 U+1F1F8"
+                        
             },
             {
                 "countryCode": "ST",
@@ -2236,8 +2076,8 @@
                 "capital": "São Tomé",
                 "continentName": "Africa",
                 "emoji":"🇸🇹",
-                        "unicode":"U+1F1F8 U+1F1F9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ST.svg"
+                        "unicode":"U+1F1F8 U+1F1F9"
+                        
             },
             {
                 "countryCode": "SV",
@@ -2247,8 +2087,8 @@
                 "capital": "San Salvador",
                 "continentName": "North America",
                 "emoji":"🇸🇻",
-                        "unicode":"U+1F1F8 U+1F1FB",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SV.svg"
+                        "unicode":"U+1F1F8 U+1F1FB"
+                        
             },
             {
                 "countryCode": "SX",
@@ -2258,8 +2098,8 @@
                 "capital": "Philipsburg",
                 "continentName": "North America",
                 "emoji":"🇸🇽",
-                        "unicode":"U+1F1F8 U+1F1FD",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SX.svg"
+                        "unicode":"U+1F1F8 U+1F1FD"
+                        
             },
             {
                 "countryCode": "SY",
@@ -2269,8 +2109,8 @@
                 "capital": "Damascus",
                 "continentName": "Asia",
                 "emoji":"🇸🇾",
-                        "unicode":"U+1F1F8 U+1F1FE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SY.svg"
+                        "unicode":"U+1F1F8 U+1F1FE"
+                        
             },
             {
                 "countryCode": "SZ",
@@ -2280,8 +2120,8 @@
                 "capital": "Mbabane",
                 "continentName": "Africa",
                 "emoji":"🇸🇿",
-                        "unicode":"U+1F1F8 U+1F1FF",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/SZ.svg"
+                        "unicode":"U+1F1F8 U+1F1FF"
+                        
             },
             {
                 "countryCode": "TC",
@@ -2291,8 +2131,8 @@
                 "capital": "Cockburn Town",
                 "continentName": "North America",
                 "emoji":"🇹🇨",
-                        "unicode":"U+1F1F9 U+1F1E8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TC.svg"
+                        "unicode":"U+1F1F9 U+1F1E8"
+                        
             },
             {
                 "countryCode": "TD",
@@ -2302,8 +2142,8 @@
                 "capital": "N'Djamena",
                 "continentName": "Africa",
                 "emoji":"🇹🇩",
-                        "unicode":"U+1F1F9 U+1F1E9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TD.svg"
+                        "unicode":"U+1F1F9 U+1F1E9"
+                        
             },
             {
                 "countryCode": "TF",
@@ -2313,8 +2153,8 @@
                 "capital": "Port-aux-Français",
                 "continentName": "Antarctica",
                 "emoji":"🇹🇫",
-                        "unicode":"U+1F1F9 U+1F1EB",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TF.svg"
+                        "unicode":"U+1F1F9 U+1F1EB"
+                        
             },
             {
                 "countryCode": "TG",
@@ -2324,8 +2164,8 @@
                 "capital": "Lomé",
                 "continentName": "Africa",
                 "emoji":"🇹🇬",
-                        "unicode":"U+1F1F9 U+1F1EC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TG.svg"
+                        "unicode":"U+1F1F9 U+1F1EC"
+                        
             },
             {
                 "countryCode": "TH",
@@ -2335,8 +2175,8 @@
                 "capital": "Bangkok",
                 "continentName": "Asia",
                 "emoji":"🇹🇭",
-                        "unicode":"U+1F1F9 U+1F1ED",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TH.svg"
+                        "unicode":"U+1F1F9 U+1F1ED"
+                       
             },
             {
                 "countryCode": "TJ",
@@ -2346,8 +2186,8 @@
                 "capital": "Dushanbe",
                 "continentName": "Asia",
                 "emoji":"🇹🇯",
-                        "unicode":"U+1F1F9 U+1F1EF",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TJ.svg"
+                        "unicode":"U+1F1F9 U+1F1EF"
+                        
             },
             {
                 "countryCode": "TK",
@@ -2357,8 +2197,8 @@
                 "capital": "",
                 "continentName": "Oceania",
                 "emoji":"🇹🇰",
-                        "unicode":"U+1F1F9 U+1F1F0",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TK.svg"
+                        "unicode":"U+1F1F9 U+1F1F0"
+                        
             },
             {
                 "countryCode": "TL",
@@ -2368,8 +2208,8 @@
                 "capital": "Dili",
                 "continentName": "Oceania",
                 "emoji":"🇹🇱",
-                        "unicode":"U+1F1F9 U+1F1F1",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TL.svg"
+                        "unicode":"U+1F1F9 U+1F1F1"
+                        
             },
             {
                 "countryCode": "TM",
@@ -2379,8 +2219,8 @@
                 "capital": "Ashgabat",
                 "continentName": "Asia",
                 "emoji":"🇹🇲",
-                        "unicode":"U+1F1F9 U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TM.svg"
+                        "unicode":"U+1F1F9 U+1F1F2"
+                       
             },
             {
                 "countryCode": "TN",
@@ -2390,8 +2230,8 @@
                 "capital": "Tunis",
                 "continentName": "Africa",
                 "emoji":"🇹🇳",
-                        "unicode":"U+1F1F9 U+1F1F3",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TN.svg"
+                        "unicode":"U+1F1F9 U+1F1F3"
+                        
             },
             {
                 "countryCode": "TO",
@@ -2401,8 +2241,8 @@
                 "capital": "Nuku'alofa",
                 "continentName": "Oceania",
                 "emoji":"🇹🇴",
-                        "unicode":"U+1F1F9 U+1F1F4",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TO.svg"
+                        "unicode":"U+1F1F9 U+1F1F4"
+                        
             },
             {
                 "countryCode": "TR",
@@ -2412,8 +2252,8 @@
                 "capital": "Ankara",
                 "continentName": "Asia",
                 "emoji":"🇹🇷",
-                        "unicode":"U+1F1F9 U+1F1F7",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TR.svg"
+                        "unicode":"U+1F1F9 U+1F1F7"
+                        
             },
             {
                 "countryCode": "TT",
@@ -2423,8 +2263,8 @@
                 "capital": "Port of Spain",
                 "continentName": "North America",
                 "emoji":"🇹🇹",
-                        "unicode":"U+1F1F9 U+1F1F9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TT.svg"
+                        "unicode":"U+1F1F9 U+1F1F9"
+                        
             },
             {
                 "countryCode": "TV",
@@ -2434,8 +2274,8 @@
                 "capital": "Funafuti",
                 "continentName": "Oceania",
                 "emoji":"🇹🇻",
-                        "unicode":"U+1F1F9 U+1F1FB",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TV.svg"
+                        "unicode":"U+1F1F9 U+1F1FB"
+                        
             },
             {
                 "countryCode": "TW",
@@ -2445,8 +2285,8 @@
                 "capital": "Taipei",
                 "continentName": "Asia",
                 "emoji":"🇹🇼",
-                        "unicode":"U+1F1F9 U+1F1FC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TW.svg"
+                        "unicode":"U+1F1F9 U+1F1FC"
+                        
             },
             {
                 "countryCode": "TZ",
@@ -2456,8 +2296,7 @@
                 "capital": "Dodoma",
                 "continentName": "Africa",
                 "emoji":"🇹🇿",
-                        "unicode":"U+1F1F9 U+1F1FF",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/TZ.svg"
+                        "unicode":"U+1F1F9 U+1F1FF"
             },
             {
                 "countryCode": "UA",
@@ -2467,8 +2306,7 @@
                 "capital": "Kiev",
                 "continentName": "Europe",
                 "emoji":"🇺🇦",
-                        "unicode":"U+1F1FA U+1F1E6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UA.svg"
+                        "unicode":"U+1F1FA U+1F1E6"
             },
             {
                 "countryCode": "UG",
@@ -2478,8 +2316,7 @@
                 "capital": "Kampala",
                 "continentName": "Africa",
                 "emoji":"🇺🇬",
-                        "unicode":"U+1F1FA U+1F1EC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UG.svg"
+                        "unicode":"U+1F1FA U+1F1EC"
             },
             {
                 "countryCode": "UM",
@@ -2489,8 +2326,7 @@
                 "capital": "",
                 "continentName": "Oceania",
                 "emoji":"🇺🇲",
-                        "unicode":"U+1F1FA U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UM.svg"
+                        "unicode":"U+1F1FA U+1F1F2"
             },
             {
                 "countryCode": "US",
@@ -2500,8 +2336,7 @@
                 "capital": "Washington",
                 "continentName": "North America",
                 "emoji":"🇺🇸",
-                        "unicode":"U+1F1FA U+1F1F8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/US.svg"
+                        "unicode":"U+1F1FA U+1F1F8"
             },
             {
                 "countryCode": "UY",
@@ -2511,8 +2346,7 @@
                 "capital": "Montevideo",
                 "continentName": "South America",
                 "emoji":"🇺🇾",
-                        "unicode":"U+1F1FA U+1F1FE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UY.svg"
+                        "unicode":"U+1F1FA U+1F1FE"
             },
             {
                 "countryCode": "UZ",
@@ -2522,8 +2356,7 @@
                 "capital": "Tashkent",
                 "continentName": "Asia",
                 "emoji":"🇺🇿",
-                        "unicode":"U+1F1FA U+1F1FF",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/UZ.svg"
+                        "unicode":"U+1F1FA U+1F1FF"
             },
             {
                 "countryCode": "VA",
@@ -2533,8 +2366,7 @@
                 "capital": "Vatican City",
                 "continentName": "Europe",
                 "emoji":"🇻🇦",
-                        "unicode":"U+1F1FB U+1F1E6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VA.svg"
+                        "unicode":"U+1F1FB U+1F1E6"
             },
             {
                 "countryCode": "VC",
@@ -2544,8 +2376,7 @@
                 "capital": "Kingstown",
                 "continentName": "North America",
                 "emoji":"🇻🇨",
-                        "unicode":"U+1F1FB U+1F1E8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VC.svg"
+                        "unicode":"U+1F1FB U+1F1E8"
             },
             {
                 "countryCode": "VE",
@@ -2555,8 +2386,7 @@
                 "capital": "Caracas",
                 "continentName": "South America",
                 "emoji":"🇻🇪",
-                        "unicode":"U+1F1FB U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VE.svg"
+                        "unicode":"U+1F1FB U+1F1EA"
             },
             {
                 "countryCode": "VG",
@@ -2566,8 +2396,7 @@
                 "capital": "Road Town",
                 "continentName": "North America",
                 "emoji":"🇻🇬",
-                        "unicode":"U+1F1FB U+1F1EC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VG.svg"
+                        "unicode":"U+1F1FB U+1F1EC"
             },
             {
                 "countryCode": "VI",
@@ -2577,8 +2406,7 @@
                 "capital": "Charlotte Amalie",
                 "continentName": "North America",
                 "emoji":"🇻🇮",
-                        "unicode":"U+1F1FB U+1F1EE",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VI.svg"
+                        "unicode":"U+1F1FB U+1F1EE"
             },
             {
                 "countryCode": "VN",
@@ -2588,8 +2416,7 @@
                 "capital": "Hanoi",
                 "continentName": "Asia",
                 "emoji":"🇻🇳",
-                        "unicode":"U+1F1FB U+1F1F3",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VN.svg"
+                        "unicode":"U+1F1FB U+1F1F3"
             },
             {
                 "countryCode": "VU",
@@ -2599,8 +2426,7 @@
                 "capital": "Port Vila",
                 "continentName": "Oceania",
                 "emoji":"🇻🇺",
-                        "unicode":"U+1F1FB U+1F1FA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/VU.svg"
+                        "unicode":"U+1F1FB U+1F1FA"
             },
             {
                 "countryCode": "WF",
@@ -2610,8 +2436,7 @@
                 "capital": "Mata-Utu",
                 "continentName": "Oceania",
                 "emoji":"🇼🇫",
-                        "unicode":"U+1F1FC U+1F1EB",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WF.svg"
+                        "unicode":"U+1F1FC U+1F1EB"
             },
             {
                 "countryCode": "WS",
@@ -2621,8 +2446,7 @@
                 "capital": "Apia",
                 "continentName": "Oceania",
                 "emoji":"🇼🇸",
-                        "unicode":"U+1F1FC U+1F1F8",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/WS.svg"
+                        "unicode":"U+1F1FC U+1F1F8"
             },
             {
                 "countryCode": "XK",
@@ -2632,8 +2456,7 @@
                 "capital": "Pristina",
                 "continentName": "Europe",
                 "emoji":"🇽🇰",
-                        "unicode":"U+1F1FD U+1F1F0",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/XK.svg"
+                        "unicode":"U+1F1FD U+1F1F0"
             },
             {
                 "countryCode": "YE",
@@ -2643,8 +2466,7 @@
                 "capital": "Sanaa",
                 "continentName": "Asia",
                 "emoji":"🇾🇪",
-                        "unicode":"U+1F1FE U+1F1EA",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YE.svg"
+                        "unicode":"U+1F1FE U+1F1EA"
             },
             {
                 "countryCode": "YT",
@@ -2654,8 +2476,7 @@
                 "capital": "Mamoudzou",
                 "continentName": "Africa",
                 "emoji":"🇾🇹",
-                        "unicode":"U+1F1FE U+1F1F9",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/YT.svg"
+                        "unicode":"U+1F1FE U+1F1F9"
             },
             {
                 "countryCode": "ZA",
@@ -2665,8 +2486,7 @@
                 "capital": "Pretoria",
                 "continentName": "Africa",
                 "emoji":"🇿🇦",
-                        "unicode":"U+1F1FF U+1F1E6",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZA.svg"
+                        "unicode":"U+1F1FF U+1F1E6"
             },
             {
                 "countryCode": "ZM",
@@ -2676,8 +2496,7 @@
                 "capital": "Lusaka",
                 "continentName": "Africa",
                 "emoji":"🇿🇲",
-                        "unicode":"U+1F1FF U+1F1F2",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZM.svg"
+                        "unicode":"U+1F1FF U+1F1F2"
             },
             {
                 "countryCode": "ZW",
@@ -2687,7 +2506,6 @@
                 "capital": "Harare",
                 "continentName": "Africa",
                 "emoji":"🇿🇼",
-                        "unicode":"U+1F1FF U+1F1FC",
-                        "image":"https://cdn.jsdelivr.net/npm/country-flag-emoji-json@2.0.0/dist/images/ZW.svg"
+                        "unicode":"U+1F1FF U+1F1FC"
             }
 ]
