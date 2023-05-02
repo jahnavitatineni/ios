@@ -95,7 +95,7 @@
                 "capital": "",
                 "continentName": "Antarctica",
                 "emoji":"🇦🇶",
-                "unicode":"U+1F1E6 U+1F1F6",
+                "unicode":"U+1F1E6 U+1F1F6"
                 
             },
             {
@@ -116,7 +116,7 @@
                 "capital": "Pago Pago",
                 "continentName": "Oceania",
                 "emoji":"🇦🇸",
-                "unicode":"U+1F1E6 U+1F1F8",
+                "unicode":"U+1F1E6 U+1F1F8"
                 
             },
             {
@@ -196,7 +196,8 @@
                 "population": "156118464",
                 "capital": "Dhaka",
                 "continentName": "Asia",
-                "emoji":"🇧🇩","unicode":"U+1F1E7 U+1F1E9"
+                "emoji":"🇧🇩",
+                "unicode":"U+1F1E7 U+1F1E9"
             },
             {
                 "countryCode": "BE",
@@ -205,7 +206,8 @@
                 "population": "10403000",
                 "capital": "Brussels",
                 "continentName": "Europe",
-                "emoji":"🇧🇪","unicode":"U+1F1E7 U+1F1EA"
+                "emoji":"🇧🇪",
+                "unicode":"U+1F1E7 U+1F1EA"
             },
             {
                 "countryCode": "BF",
@@ -214,7 +216,8 @@
                 "population": "16241811",
                 "capital": "Ouagadougou",
                 "continentName": "Africa",
-                "emoji":"🇧🇫","unicode":"U+1F1E7 U+1F1EB"
+                "emoji":"🇧🇫",
+                "unicode":"U+1F1E7 U+1F1EB"
             },
             {
                 "countryCode": "BG",
@@ -223,7 +226,8 @@
                 "population": "7148785",
                 "capital": "Sofia",
                 "continentName": "Europe",
-                "emoji":"🇧🇬","unicode":"U+1F1E7 U+1F1EC"
+                "emoji":"🇧🇬",
+                "unicode":"U+1F1E7 U+1F1EC"
             },
             {
                 "countryCode": "BH",
@@ -232,7 +236,8 @@
                 "population": "738004",
                 "capital": "Manama",
                 "continentName": "Asia",
-                "emoji":"🇧🇭","unicode":"U+1F1E7 U+1F1ED"
+                "emoji":"🇧🇭",
+                "unicode":"U+1F1E7 U+1F1ED"
             },
             {
                 "countryCode": "BI",
@@ -241,7 +246,8 @@
                 "population": "9863117",
                 "capital": "Bujumbura",
                 "continentName": "Africa",
-                "emoji":"🇧🇮","unicode":"U+1F1E7 U+1F1EE"
+                "emoji":"🇧🇮",
+                "unicode":"U+1F1E7 U+1F1EE"
             },
             {
                 "countryCode": "BJ",
@@ -250,7 +256,8 @@
                 "population": "9056010",
                 "capital": "Porto-Novo",
                 "continentName": "Africa",
-                "emoji":"🇧🇯","unicode":"U+1F1E7 U+1F1EF"
+                "emoji":"🇧🇯",
+                "unicode":"U+1F1E7 U+1F1EF"
             },
             {
                 "countryCode": "BL",
@@ -259,7 +266,8 @@
                 "population": "8450",
                 "capital": "Gustavia",
                 "continentName": "North America",
-                "emoji":"🇧🇱","unicode":"U+1F1E7 U+1F1F1"
+                "emoji":"🇧🇱",
+                "unicode":"U+1F1E7 U+1F1F1"
             },
             {
                 "countryCode": "BM",
@@ -268,7 +276,8 @@
                 "population": "65365",
                 "capital": "Hamilton",
                 "continentName": "North America",
-                "emoji":"🇧🇲","unicode":"U+1F1E7 U+1F1F2"
+                "emoji":"🇧🇲",
+                "unicode":"U+1F1E7 U+1F1F2"
             },
             {
                 "countryCode": "BN",
@@ -277,7 +286,8 @@
                 "population": "395027",
                 "capital": "Bandar Seri Begawan",
                 "continentName": "Asia",
-                "emoji":"🇧🇳","unicode":"U+1F1E7 U+1F1F3"
+                "emoji":"🇧🇳",
+                "unicode":"U+1F1E7 U+1F1F3"
             },
             {
                 "countryCode": "BO",
@@ -286,7 +296,8 @@
                 "population": "9947418",
                 "capital": "Sucre",
                 "continentName": "South America",
-                "emoji":"🇧🇴","unicode":"U+1F1E7 U+1F1F4"
+                "emoji":"🇧🇴",
+                "unicode":"U+1F1E7 U+1F1F4"
             },
             {
                 "countryCode": "BQ",
@@ -295,7 +306,8 @@
                 "population": "18012",
                 "capital": "Kralendijk",
                 "continentName": "North America",
-                "emoji":"🇧🇶","unicode":"U+1F1E7 U+1F1F6"
+                "emoji":"🇧🇶",
+                "unicode":"U+1F1E7 U+1F1F6"
             },
             {
                 "countryCode": "BR",
@@ -304,7 +316,8 @@
                 "population": "201103330",
                 "capital": "Brasília",
                 "continentName": "South America",
-                "emoji":"🇧🇷","unicode":"U+1F1E7 U+1F1F7"
+                "emoji":"🇧🇷",
+                "unicode":"U+1F1E7 U+1F1F7"
             },
             {
                 "countryCode": "BS",
@@ -313,7 +326,8 @@
                 "population": "301790",
                 "capital": "Nassau",
                 "continentName": "North America",
-                "emoji":"🇧🇸","unicode":"U+1F1E7 U+1F1F8"
+                "emoji":"🇧🇸",
+                "unicode":"U+1F1E7 U+1F1F8"
             },
             {
                 "countryCode": "BT",
@@ -322,7 +336,8 @@
                 "population": "699847",
                 "capital": "Thimphu",
                 "continentName": "Asia",
-                "emoji":"🇧🇹","unicode":"U+1F1E7 U+1F1F9"
+                "emoji":"🇧🇹",
+                "unicode":"U+1F1E7 U+1F1F9"
             },
             {
                 "countryCode": "BV",
@@ -331,7 +346,8 @@
                 "population": "0",
                 "capital": "",
                 "continentName": "Antarctica",
-                "emoji":"🇧🇻","unicode":"U+1F1E7 U+1F1FB"
+                "emoji":"🇧🇻",
+                "unicode":"U+1F1E7 U+1F1FB"
             },
             {
                 "countryCode": "BW",
@@ -340,7 +356,8 @@
                 "population": "2029307",
                 "capital": "Gaborone",
                 "continentName": "Africa",
-                "emoji":"🇧🇼","unicode":"U+1F1E7 U+1F1FC"
+                "emoji":"🇧🇼",
+                "unicode":"U+1F1E7 U+1F1FC"
             },
             {
                 "countryCode": "BY",
@@ -349,7 +366,8 @@
                 "population": "9685000",
                 "capital": "Minsk",
                 "continentName": "Europe",
-                "emoji":"🇧🇾","unicode":"U+1F1E7 U+1F1FE"
+                "emoji":"🇧🇾",
+                "unicode":"U+1F1E7 U+1F1FE"
             },
             {
                 "countryCode": "BZ",
@@ -358,7 +376,8 @@
                 "population": "314522",
                 "capital": "Belmopan",
                 "continentName": "North America",
-                "emoji":"🇧🇿","unicode":"U+1F1E7 U+1F1FF"
+                "emoji":"🇧🇿",
+                "unicode":"U+1F1E7 U+1F1FF"
             },
             {
                 "countryCode": "CA",
@@ -367,7 +386,8 @@
                 "population": "33679000",
                 "capital": "Ottawa",
                 "continentName": "North America",
-                "emoji":"🇨🇦","unicode":"U+1F1E8 U+1F1E6"
+                "emoji":"🇨🇦",
+                "unicode":"U+1F1E8 U+1F1E6"
             },
             {
                 "countryCode": "CC",
@@ -376,7 +396,8 @@
                 "population": "628",
                 "capital": "West Island",
                 "continentName": "Asia",
-                "emoji":"🇨🇨","unicode":"U+1F1E8 U+1F1E8"
+                "emoji":"🇨🇨",
+                "unicode":"U+1F1E8 U+1F1E8"
             },
             {
                 "countryCode": "CD",
@@ -385,7 +406,8 @@
                 "population": "70916439",
                 "capital": "Kinshasa",
                 "continentName": "Africa",
-                "emoji":"🇨🇩","unicode":"U+1F1E8 U+1F1E9"
+                "emoji":"🇨🇩",
+                "unicode":"U+1F1E8 U+1F1E9"
             },
             {
                 "countryCode": "CF",
@@ -395,7 +417,7 @@
                 "capital": "Bangui",
                 "continentName": "Africa",
                 "emoji":"🇨🇫",
-                        "unicode":"U+1F1E8 U+1F1EB"
+                "unicode":"U+1F1E8 U+1F1EB"
                         
             },
             {
@@ -406,7 +428,7 @@
                 "capital": "Brazzaville",
                 "continentName": "Africa",
                 "emoji":"🇨🇬",
-                        "unicode":"U+1F1E8 U+1F1EC"
+                "unicode":"U+1F1E8 U+1F1EC"
             },
             {
                 "countryCode": "CH",
@@ -416,7 +438,7 @@
                 "capital": "Bern",
                 "continentName": "Europe",
                 "emoji":"🇨🇭",
-                        "unicode":"U+1F1E8 U+1F1ED"
+                "unicode":"U+1F1E8 U+1F1ED"
             },
             {
                 "countryCode": "CI",
@@ -426,7 +448,7 @@
                 "capital": "Yamoussoukro",
                 "continentName": "Africa",
                 "emoji":"🇨🇮",
-                        "unicode":"U+1F1E8 U+1F1EE"
+                "unicode":"U+1F1E8 U+1F1EE"
             },
             {
                 "countryCode": "CK",
@@ -436,7 +458,7 @@
                 "capital": "Avarua",
                 "continentName": "Oceania",
                 "emoji":"🇨🇰",
-                        "unicode":"U+1F1E8 U+1F1F0"
+                "unicode":"U+1F1E8 U+1F1F0"
             },
             {
                 "countryCode": "CL",
@@ -446,7 +468,7 @@
                 "capital": "Santiago",
                 "continentName": "South America",
                 "emoji":"🇨🇱",
-                        "unicode":"U+1F1E8 U+1F1F1"
+                "unicode":"U+1F1E8 U+1F1F1"
             },
             {
                 "countryCode": "CM",
@@ -455,7 +477,8 @@
                 "population": "19294149",
                 "capital": "Yaoundé",
                 "continentName": "Africa",
-                "emoji":"🇨🇲","unicode":"U+1F1E8 U+1F1F2"
+                "emoji":"🇨🇲",
+                "unicode":"U+1F1E8 U+1F1F2"
             },
             {
                 "countryCode": "CN",
@@ -464,7 +487,8 @@
                 "population": "1330044000",
                 "capital": "Beijing",
                 "continentName": "Asia",
-                "emoji":"🇨🇳","unicode":"U+1F1E8 U+1F1F3"
+                "emoji":"🇨🇳",
+                "unicode":"U+1F1E8 U+1F1F3"
             },
             {
                 "countryCode": "CO",
@@ -474,7 +498,7 @@
                 "capital": "Bogotá",
                 "continentName": "South America",
                 "emoji":"🇨🇴",
-                        "unicode":"U+1F1E8 U+1F1F4"
+                "unicode":"U+1F1E8 U+1F1F4"
             },
             {
                 "countryCode": "CR",
@@ -484,7 +508,7 @@
                 "capital": "San José",
                 "continentName": "North America",
                 "emoji":"🇨🇷",
-                        "unicode":"U+1F1E8 U+1F1F7"
+                "unicode":"U+1F1E8 U+1F1F7"
             },
             {
                 "countryCode": "CU",
@@ -494,7 +518,7 @@
                 "capital": "Havana",
                 "continentName": "North America",
                 "emoji":"🇨🇺",
-                        "unicode":"U+1F1E8 U+1F1FA"
+                "unicode":"U+1F1E8 U+1F1FA"
             },
             {
                 "countryCode": "CV",
@@ -504,7 +528,7 @@
                 "capital": "Praia",
                 "continentName": "Africa",
                 "emoji":"🇨🇻",
-                        "unicode":"U+1F1E8 U+1F1FB"
+                "unicode":"U+1F1E8 U+1F1FB"
             },
             {
                 "countryCode": "CW",
@@ -514,7 +538,7 @@
                 "capital": "Willemstad",
                 "continentName": "North America",
                 "emoji":"🇨🇼",
-                        "unicode":"U+1F1E8 U+1F1FC"
+                "unicode":"U+1F1E8 U+1F1FC"
             },
             {
                 "countryCode": "CX",
@@ -524,7 +548,7 @@
                 "capital": "Flying Fish Cove",
                 "continentName": "Asia",
                 "emoji":"🇨🇽",
-                        "unicode":"U+1F1E8 U+1F1FD"
+                "unicode":"U+1F1E8 U+1F1FD"
             },
             {
                 "countryCode": "CY",
@@ -534,7 +558,7 @@
                 "capital": "Nicosia",
                 "continentName": "Europe",
                 "emoji":"🇨🇾",
-                        "unicode":"U+1F1E8 U+1F1FE"
+                "unicode":"U+1F1E8 U+1F1FE"
             },
             {
                 "countryCode": "CZ",
@@ -544,7 +568,7 @@
                 "capital": "Prague",
                 "continentName": "Europe",
                 "emoji":"🇨🇿",
-                        "unicode":"U+1F1E8 U+1F1FF"
+                "unicode":"U+1F1E8 U+1F1FF"
             },
             {
                 "countryCode": "DE",
@@ -554,7 +578,7 @@
                 "capital": "Berlin",
                 "continentName": "Europe",
                 "emoji":"🇩🇪",
-                        "unicode":"U+1F1E9 U+1F1EA"
+                "unicode":"U+1F1E9 U+1F1EA"
             },
             {
                 "countryCode": "DJ",
@@ -564,7 +588,7 @@
                 "capital": "Djibouti",
                 "continentName": "Africa",
                 "emoji":"🇩🇯",
-                        "unicode":"U+1F1E9 U+1F1EF"
+                "unicode":"U+1F1E9 U+1F1EF"
             },
             {
                 "countryCode": "DK",
@@ -574,7 +598,7 @@
                 "capital": "Copenhagen",
                 "continentName": "Europe",
                 "emoji":"🇩🇰",
-                        "unicode":"U+1F1E9 U+1F1F0"
+                "unicode":"U+1F1E9 U+1F1F0"
             },
             {
                 "countryCode": "DM",
@@ -584,7 +608,7 @@
                 "capital": "Roseau",
                 "continentName": "North America",
                 "emoji":"🇩🇲",
-                        "unicode":"U+1F1E9 U+1F1F2"
+                "unicode":"U+1F1E9 U+1F1F2"
             },
             {
                 "countryCode": "DO",
@@ -594,7 +618,7 @@
                 "capital": "Santo Domingo",
                 "continentName": "North America",
                 "emoji":"🇩🇴",
-                        "unicode":"U+1F1E9 U+1F1F4"
+                "unicode":"U+1F1E9 U+1F1F4"
             },
             {
                 "countryCode": "DZ",
@@ -604,7 +628,7 @@
                 "capital": "Algiers",
                 "continentName": "Africa",
                 "emoji":"🇩🇿",
-                        "unicode":"U+1F1E9 U+1F1FF"
+                "unicode":"U+1F1E9 U+1F1FF"
             },
             {
                 "countryCode": "EC",
@@ -614,7 +638,7 @@
                 "capital": "Quito",
                 "continentName": "South America",
                 "emoji":"🇪🇨",
-                        "unicode":"U+1F1EA U+1F1E8"
+                "unicode":"U+1F1EA U+1F1E8"
             },
             {
                 "countryCode": "EE",
@@ -624,7 +648,7 @@
                 "capital": "Tallinn",
                 "continentName": "Europe",
                 "emoji":"🇪🇪",
-                        "unicode":"U+1F1EA U+1F1EA"
+                "unicode":"U+1F1EA U+1F1EA"
             },
             {
                 "countryCode": "EG",
@@ -634,7 +658,7 @@
                 "capital": "Cairo",
                 "continentName": "Africa",
                 "emoji":"🇪🇬",
-                        "unicode":"U+1F1EA U+1F1EC"
+                "unicode":"U+1F1EA U+1F1EC"
             },
             {
                 "countryCode": "EH",
@@ -644,7 +668,7 @@
                 "capital": "Laâyoune / El Aaiún",
                 "continentName": "Africa",
                 "emoji":"🇪🇭",
-                        "unicode":"U+1F1EA U+1F1ED"
+                "unicode":"U+1F1EA U+1F1ED"
             },
             {
                 "countryCode": "ER",
@@ -654,7 +678,7 @@
                 "capital": "Asmara",
                 "continentName": "Africa",
                 "emoji":"🇪🇷",
-                        "unicode":"U+1F1EA U+1F1F7"
+                "unicode":"U+1F1EA U+1F1F7"
             },
             {
                 "countryCode": "ES",
@@ -664,7 +688,7 @@
                 "capital": "Madrid",
                 "continentName": "Europe",
                 "emoji":"🇪🇸",
-                        "unicode":"U+1F1EA U+1F1F8"
+                "unicode":"U+1F1EA U+1F1F8"
             },
             {
                 "countryCode": "ET",
@@ -674,7 +698,7 @@
                 "capital": "Addis Ababa",
                 "continentName": "Africa",
                 "emoji":"🇪🇹",
-                        "unicode":"U+1F1EA U+1F1F9"
+                "unicode":"U+1F1EA U+1F1F9"
             },
             {
                 "countryCode": "FI",
@@ -684,7 +708,7 @@
                 "capital": "Helsinki",
                 "continentName": "Europe",
                 "emoji":"🇫🇮",
-                        "unicode":"U+1F1EB U+1F1EE"
+                "unicode":"U+1F1EB U+1F1EE"
             },
             {
                 "countryCode": "FJ",
@@ -694,7 +718,7 @@
                 "capital": "Suva",
                 "continentName": "Oceania",
                 "emoji":"🇫🇯",
-                        "unicode":"U+1F1EB U+1F1EF"
+                "unicode":"U+1F1EB U+1F1EF"
             },
             {
                 "countryCode": "FK",
@@ -704,7 +728,7 @@
                 "capital": "Stanley",
                 "continentName": "South America",
                 "emoji":"🇫🇰",
-                        "unicode":"U+1F1EB U+1F1F0"
+                "unicode":"U+1F1EB U+1F1F0"
             },
             {
                 "countryCode": "FM",
@@ -714,7 +738,7 @@
                 "capital": "Palikir",
                 "continentName": "Oceania",
                 "emoji":"🇫🇲",
-                        "unicode":"U+1F1EB U+1F1F2"
+                "unicode":"U+1F1EB U+1F1F2"
             },
             {
                 "countryCode": "FO",
@@ -724,7 +748,7 @@
                 "capital": "Tórshavn",
                 "continentName": "Europe",
                 "emoji":"🇫🇴",
-                        "unicode":"U+1F1EB U+1F1F4"
+                "unicode":"U+1F1EB U+1F1F4"
             },
             {
                 "countryCode": "FR",
@@ -734,7 +758,7 @@
                 "capital": "Paris",
                 "continentName": "Europe",
                 "emoji":"🇫🇷",
-                        "unicode":"U+1F1EB U+1F1F7"
+                "unicode":"U+1F1EB U+1F1F7"
             },
             {
                 "countryCode": "GA",
@@ -744,7 +768,7 @@
                 "capital": "Libreville",
                 "continentName": "Africa",
                 "emoji":"🇬🇦",
-                        "unicode":"U+1F1EC U+1F1E6"
+                "unicode":"U+1F1EC U+1F1E6"
             },
             {
                 "countryCode": "GB",
@@ -754,7 +778,7 @@
                 "capital": "London",
                 "continentName": "Europe",
                 "emoji":"🇬🇧",
-                        "unicode":"U+1F1EC U+1F1E7"
+                "unicode":"U+1F1EC U+1F1E7"
             },
             {
                 "countryCode": "GD",
@@ -764,7 +788,7 @@
                 "capital": "St. George's",
                 "continentName": "North America",
                 "emoji":"🇬🇩",
-                        "unicode":"U+1F1EC U+1F1E9"
+                "unicode":"U+1F1EC U+1F1E9"
             },
             {
                 "countryCode": "GE",
@@ -774,7 +798,7 @@
                 "capital": "Tbilisi",
                 "continentName": "Asia",
                 "emoji":"🇬🇪",
-                        "unicode":"U+1F1EC U+1F1EA"
+                "unicode":"U+1F1EC U+1F1EA"
             },
             {
                 "countryCode": "GF",
@@ -784,7 +808,7 @@
                 "capital": "Cayenne",
                 "continentName": "South America",
                 "emoji":"🇬🇫",
-                        "unicode":"U+1F1EC U+1F1EB"
+                "unicode":"U+1F1EC U+1F1EB"
             },
             {
                 "countryCode": "GG",
@@ -794,7 +818,7 @@
                 "capital": "St Peter Port",
                 "continentName": "Europe",
                 "emoji":"🇬🇬",
-                        "unicode":"U+1F1EC U+1F1EC"
+                "unicode":"U+1F1EC U+1F1EC"
             },
             {
                 "countryCode": "GH",
@@ -804,7 +828,7 @@
                 "capital": "Accra",
                 "continentName": "Africa",
                 "emoji":"🇬🇭",
-                        "unicode":"U+1F1EC U+1F1ED"
+                "unicode":"U+1F1EC U+1F1ED"
             },
             {
                 "countryCode": "GI",
@@ -814,7 +838,7 @@
                 "capital": "Gibraltar",
                 "continentName": "Europe",
                 "emoji":"🇬🇮",
-                        "unicode":"U+1F1EC U+1F1EE"
+                "unicode":"U+1F1EC U+1F1EE"
             },
             {
                 "countryCode": "GL",
@@ -824,7 +848,7 @@
                 "capital": "Nuuk",
                 "continentName": "North America",
                 "emoji":"🇬🇱",
-                        "unicode":"U+1F1EC U+1F1F1"
+                "unicode":"U+1F1EC U+1F1F1"
             },
             {
                 "countryCode": "GM",
@@ -834,7 +858,7 @@
                 "capital": "Bathurst",
                 "continentName": "Africa",
                 "emoji":"🇬🇲",
-                        "unicode":"U+1F1EC U+1F1F2"
+                "unicode":"U+1F1EC U+1F1F2"
             },
             {
                 "countryCode": "GN",
@@ -844,7 +868,7 @@
                 "capital": "Conakry",
                 "continentName": "Africa",
                 "emoji":"🇬🇳",
-                        "unicode":"U+1F1EC U+1F1F3"
+                "unicode":"U+1F1EC U+1F1F3"
             },
             {
                 "countryCode": "GP",
@@ -854,7 +878,7 @@
                 "capital": "Basse-Terre",
                 "continentName": "North America",
                 "emoji":"🇬🇵",
-                        "unicode":"U+1F1EC U+1F1F5"
+                "unicode":"U+1F1EC U+1F1F5"
             },
             {
                 "countryCode": "GQ",
@@ -864,7 +888,7 @@
                 "capital": "Malabo",
                 "continentName": "Africa",
                 "emoji":"🇬🇶",
-                        "unicode":"U+1F1EC U+1F1F6"
+                "unicode":"U+1F1EC U+1F1F6"
             },
             {
                 "countryCode": "GR",
@@ -874,7 +898,7 @@
                 "capital": "Athens",
                 "continentName": "Europe",
                 "emoji":"🇬🇷",
-                        "unicode":"U+1F1EC U+1F1F7"
+                "unicode":"U+1F1EC U+1F1F7"
             },
             {
                 "countryCode": "GS",
@@ -884,7 +908,7 @@
                 "capital": "Grytviken",
                 "continentName": "Antarctica",
                 "emoji":"🇬🇸",
-                        "unicode":"U+1F1EC U+1F1F8"
+                "unicode":"U+1F1EC U+1F1F8"
             },
             {
                 "countryCode": "GT",
@@ -894,7 +918,7 @@
                 "capital": "Guatemala City",
                 "continentName": "North America",
                 "emoji":"🇬🇹",
-                        "unicode":"U+1F1EC U+1F1F9"
+                "unicode":"U+1F1EC U+1F1F9"
             },
             {
                 "countryCode": "GU",
@@ -904,7 +928,7 @@
                 "capital": "Hagåtña",
                 "continentName": "Oceania",
                 "emoji":"🇬🇺",
-                        "unicode":"U+1F1EC U+1F1FA"
+                "unicode":"U+1F1EC U+1F1FA"
             },
             {
                 "countryCode": "GW",
@@ -914,7 +938,7 @@
                 "capital": "Bissau",
                 "continentName": "Africa",
                 "emoji":"🇬🇼",
-                        "unicode":"U+1F1EC U+1F1FC"
+                "unicode":"U+1F1EC U+1F1FC"
             },
             {
                 "countryCode": "GY",
@@ -924,7 +948,7 @@
                 "capital": "Georgetown",
                 "continentName": "South America",
                 "emoji":"🇬🇾",
-                        "unicode":"U+1F1EC U+1F1FE"
+                "unicode":"U+1F1EC U+1F1FE"
             },
             {
                 "countryCode": "HK",
@@ -934,7 +958,7 @@
                 "capital": "Hong Kong",
                 "continentName": "Asia",
                 "emoji":"🇭🇰",
-                        "unicode":"U+1F1ED U+1F1F0"
+                "unicode":"U+1F1ED U+1F1F0"
             },
             {
                 "countryCode": "HM",
@@ -944,7 +968,7 @@
                 "capital": "",
                 "continentName": "Antarctica",
                 "emoji":"🇭🇲",
-                        "unicode":"U+1F1ED U+1F1F2"
+                "unicode":"U+1F1ED U+1F1F2"
             },
             {
                 "countryCode": "HN",
@@ -954,7 +978,7 @@
                 "capital": "Tegucigalpa",
                 "continentName": "North America",
                 "emoji":"🇭🇳",
-                        "unicode":"U+1F1ED U+1F1F3"
+                "unicode":"U+1F1ED U+1F1F3"
             },
             {
                 "countryCode": "HR",
@@ -964,7 +988,7 @@
                 "capital": "Zagreb",
                 "continentName": "Europe",
                 "emoji":"🇭🇷",
-                        "unicode":"U+1F1ED U+1F1F7"
+                "unicode":"U+1F1ED U+1F1F7"
             },
             {
                 "countryCode": "HT",
@@ -974,7 +998,7 @@
                 "capital": "Port-au-Prince",
                 "continentName": "North America",
                 "emoji":"🇭🇹",
-                        "unicode":"U+1F1ED U+1F1F9"
+                "unicode":"U+1F1ED U+1F1F9"
             },
             {
                 "countryCode": "HU",
@@ -984,7 +1008,7 @@
                 "capital": "Budapest",
                 "continentName": "Europe",
                 "emoji":"🇭🇺",
-                        "unicode":"U+1F1ED U+1F1FA"
+                "unicode":"U+1F1ED U+1F1FA"
             },
             {
                 "countryCode": "ID",
@@ -994,7 +1018,7 @@
                 "capital": "Jakarta",
                 "continentName": "Asia",
                 "emoji":"🇮🇩",
-                        "unicode":"U+1F1EE U+1F1E9"
+                "unicode":"U+1F1EE U+1F1E9"
             },
             {
                 "countryCode": "IE",
@@ -1004,7 +1028,7 @@
                 "capital": "Dublin",
                 "continentName": "Europe",
                 "emoji":"🇮🇪",
-                        "unicode":"U+1F1EE U+1F1EA"
+                "unicode":"U+1F1EE U+1F1EA"
             },
             {
                 "countryCode": "IL",
@@ -1014,7 +1038,7 @@
                 "capital": "",
                 "continentName": "Asia",
                 "emoji":"🇮🇱",
-                        "unicode":"U+1F1EE U+1F1F1"
+                "unicode":"U+1F1EE U+1F1F1"
             },
             {
                 "countryCode": "IM",
@@ -1024,7 +1048,7 @@
                 "capital": "Douglas",
                 "continentName": "Europe",
                 "emoji":"🇮🇲",
-                        "unicode":"U+1F1EE U+1F1F2"
+                "unicode":"U+1F1EE U+1F1F2"
             },
             {
                 "countryCode": "IN",
@@ -1034,7 +1058,7 @@
                 "capital": "New Delhi",
                 "continentName": "Asia",
                 "emoji":"🇮🇳",
-                        "unicode":"U+1F1EE U+1F1F3"
+                "unicode":"U+1F1EE U+1F1F3"
             },
             {
                 "countryCode": "IO",
@@ -1044,7 +1068,7 @@
                 "capital": "",
                 "continentName": "Asia",
                 "emoji":"🇮🇴",
-                        "unicode":"U+1F1EE U+1F1F4"
+                "unicode":"U+1F1EE U+1F1F4"
             },
             {
                 "countryCode": "IQ",
@@ -1054,7 +1078,7 @@
                 "capital": "Baghdad",
                 "continentName": "Asia",
                 "emoji":"🇮🇶",
-                        "unicode":"U+1F1EE U+1F1F6"
+                "unicode":"U+1F1EE U+1F1F6"
             },
             {
                 "countryCode": "IR",
@@ -1064,7 +1088,7 @@
                 "capital": "Tehran",
                 "continentName": "Asia",
                 "emoji":"🇮🇷",
-                        "unicode":"U+1F1EE U+1F1F7"
+                "unicode":"U+1F1EE U+1F1F7"
             },
             {
                 "countryCode": "IS",
@@ -1074,7 +1098,7 @@
                 "capital": "Reykjavik",
                 "continentName": "Europe",
                 "emoji":"🇮🇸",
-                        "unicode":"U+1F1EE U+1F1F8"
+                "unicode":"U+1F1EE U+1F1F8"
             },
             {
                 "countryCode": "IT",
@@ -1084,7 +1108,7 @@
                 "capital": "Rome",
                 "continentName": "Europe",
                 "emoji":"🇮🇹",
-                        "unicode":"U+1F1EE U+1F1F9"
+                "unicode":"U+1F1EE U+1F1F9"
             },
             {
                 "countryCode": "JE",
@@ -1094,7 +1118,7 @@
                 "capital": "Saint Helier",
                 "continentName": "Europe",
                 "emoji":"🇯🇪",
-                        "unicode":"U+1F1EF U+1F1EA"
+                "unicode":"U+1F1EF U+1F1EA"
             },
             {
                 "countryCode": "JM",
@@ -1104,7 +1128,7 @@
                 "capital": "Kingston",
                 "continentName": "North America",
                 "emoji":"🇯🇲",
-                        "unicode":"U+1F1EF U+1F1F2"
+                "unicode":"U+1F1EF U+1F1F2"
             },
             {
                 "countryCode": "JO",
@@ -1114,7 +1138,7 @@
                 "capital": "Amman",
                 "continentName": "Asia",
                 "emoji":"🇯🇴",
-                        "unicode":"U+1F1EF U+1F1F4"
+                "unicode":"U+1F1EF U+1F1F4"
             },
             {
                 "countryCode": "JP",
@@ -1124,7 +1148,7 @@
                 "capital": "Tokyo",
                 "continentName": "Asia",
                 "emoji":"🇯🇵",
-                        "unicode":"U+1F1EF U+1F1F5"
+                "unicode":"U+1F1EF U+1F1F5"
             },
             {
                 "countryCode": "KE",
@@ -1134,7 +1158,7 @@
                 "capital": "Nairobi",
                 "continentName": "Africa",
                 "emoji":"🇰🇪",
-                        "unicode":"U+1F1F0 U+1F1EA"
+                "unicode":"U+1F1F0 U+1F1EA"
             },
             {
                 "countryCode": "KG",
@@ -1144,7 +1168,7 @@
                 "capital": "Bishkek",
                 "continentName": "Asia",
                 "emoji":"🇰🇬",
-                        "unicode":"U+1F1F0 U+1F1EC"
+                "unicode":"U+1F1F0 U+1F1EC"
             },
             {
                 "countryCode": "KH",
@@ -1154,7 +1178,7 @@
                 "capital": "Phnom Penh",
                 "continentName": "Asia",
                 "emoji":"🇰🇭",
-                        "unicode":"U+1F1F0 U+1F1ED"
+                "unicode":"U+1F1F0 U+1F1ED"
             },
             {
                 "countryCode": "KI",
@@ -1164,7 +1188,7 @@
                 "capital": "Tarawa",
                 "continentName": "Oceania",
                 "emoji":"🇰🇮",
-                        "unicode":"U+1F1F0 U+1F1EE"
+                "unicode":"U+1F1F0 U+1F1EE"
             },
             {
                 "countryCode": "KM",
@@ -1174,7 +1198,7 @@
                 "capital": "Moroni",
                 "continentName": "Africa",
                 "emoji":"🇰🇲",
-                        "unicode":"U+1F1F0 U+1F1F2"
+                "unicode":"U+1F1F0 U+1F1F2"
             },
             {
                 "countryCode": "KN",
@@ -1184,7 +1208,7 @@
                 "capital": "Basseterre",
                 "continentName": "North America",
                 "emoji":"🇰🇳",
-                        "unicode":"U+1F1F0 U+1F1F3"
+                "unicode":"U+1F1F0 U+1F1F3"
             },
             {
                 "countryCode": "KP",
@@ -1194,7 +1218,7 @@
                 "capital": "Pyongyang",
                 "continentName": "Asia",
                 "emoji":"🇰🇵",
-                        "unicode":"U+1F1F0 U+1F1F5"
+                "unicode":"U+1F1F0 U+1F1F5"
             },
             {
                 "countryCode": "KR",
@@ -1204,7 +1228,7 @@
                 "capital": "Seoul",
                 "continentName": "Asia",
                 "emoji":"🇰🇷",
-                        "unicode":"U+1F1F0 U+1F1F7"
+                "unicode":"U+1F1F0 U+1F1F7"
             },
             {
                 "countryCode": "KW",
@@ -1214,7 +1238,7 @@
                 "capital": "Kuwait City",
                 "continentName": "Asia",
                 "emoji":"🇰🇼",
-                        "unicode":"U+1F1F0 U+1F1FC"
+                "unicode":"U+1F1F0 U+1F1FC"
             },
             {
                 "countryCode": "KY",
@@ -1224,7 +1248,7 @@
                 "capital": "George Town",
                 "continentName": "North America",
                 "emoji":"🇰🇾",
-                        "unicode":"U+1F1F0 U+1F1FE"
+                "unicode":"U+1F1F0 U+1F1FE"
             },
             {
                 "countryCode": "KZ",
@@ -1234,7 +1258,7 @@
                 "capital": "Astana",
                 "continentName": "Asia",
                 "emoji":"🇰🇿",
-                        "unicode":"U+1F1F0 U+1F1FF"
+                "unicode":"U+1F1F0 U+1F1FF"
             },
             {
                 "countryCode": "LA",
@@ -1244,7 +1268,7 @@
                 "capital": "Vientiane",
                 "continentName": "Asia",
                 "emoji":"🇱🇦",
-                        "unicode":"U+1F1F1 U+1F1E6"
+                "unicode":"U+1F1F1 U+1F1E6"
             },
             {
                 "countryCode": "LB",
@@ -1254,7 +1278,7 @@
                 "capital": "Beirut",
                 "continentName": "Asia",
                 "emoji":"🇱🇧",
-                        "unicode":"U+1F1F1 U+1F1E7"
+                "unicode":"U+1F1F1 U+1F1E7"
             },
             {
                 "countryCode": "LC",
@@ -1264,7 +1288,7 @@
                 "capital": "Castries",
                 "continentName": "North America",
                 "emoji":"🇱🇨",
-                        "unicode":"U+1F1F1 U+1F1E8"
+                "unicode":"U+1F1F1 U+1F1E8"
             },
             {
                 "countryCode": "LI",
@@ -1274,7 +1298,7 @@
                 "capital": "Vaduz",
                 "continentName": "Europe",
                 "emoji":"🇱🇮",
-                        "unicode":"U+1F1F1 U+1F1EE"
+                "unicode":"U+1F1F1 U+1F1EE"
             },
             {
                 "countryCode": "LK",
@@ -1284,7 +1308,7 @@
                 "capital": "Colombo",
                 "continentName": "Asia",
                 "emoji":"🇱🇰",
-                        "unicode":"U+1F1F1 U+1F1F0"
+                "unicode":"U+1F1F1 U+1F1F0"
             },
             {
                 "countryCode": "LR",
@@ -1294,7 +1318,7 @@
                 "capital": "Monrovia",
                 "continentName": "Africa",
                 "emoji":"🇱🇷",
-                        "unicode":"U+1F1F1 U+1F1F7"
+                "unicode":"U+1F1F1 U+1F1F7"
             },
             {
                 "countryCode": "LS",
@@ -1304,7 +1328,7 @@
                 "capital": "Maseru",
                 "continentName": "Africa",
                 "emoji":"🇱🇸",
-                        "unicode":"U+1F1F1 U+1F1F8"
+                "unicode":"U+1F1F1 U+1F1F8"
             },
             {
                 "countryCode": "LT",
@@ -1314,7 +1338,7 @@
                 "capital": "Vilnius",
                 "continentName": "Europe",
                 "emoji":"🇱🇹",
-                        "unicode":"U+1F1F1 U+1F1F9"
+                "unicode":"U+1F1F1 U+1F1F9"
             },
             {
                 "countryCode": "LU",
@@ -1324,7 +1348,7 @@
                 "capital": "Luxembourg",
                 "continentName": "Europe",
                 "emoji":"🇱🇺",
-                        "unicode":"U+1F1F1 U+1F1FA"
+                "unicode":"U+1F1F1 U+1F1FA"
             },
             {
                 "countryCode": "LV",
@@ -1334,7 +1358,7 @@
                 "capital": "Riga",
                 "continentName": "Europe",
                 "emoji":"🇱🇻",
-                        "unicode":"U+1F1F1 U+1F1FB"
+                "unicode":"U+1F1F1 U+1F1FB"
             },
             {
                 "countryCode": "LY",
@@ -1344,7 +1368,7 @@
                 "capital": "Tripoli",
                 "continentName": "Africa",
                 "emoji":"🇱🇾",
-                        "unicode":"U+1F1F1 U+1F1FE"
+                "unicode":"U+1F1F1 U+1F1FE"
             },
             {
                 "countryCode": "MA",
@@ -1354,7 +1378,7 @@
                 "capital": "Rabat",
                 "continentName": "Africa",
                 "emoji":"🇲🇦",
-                        "unicode":"U+1F1F2 U+1F1E6"
+                "unicode":"U+1F1F2 U+1F1E6"
             },
             {
                 "countryCode": "MC",
@@ -1364,7 +1388,7 @@
                 "capital": "Monaco",
                 "continentName": "Europe",
                 "emoji":"🇲🇨",
-                        "unicode":"U+1F1F2 U+1F1E8"
+                "unicode":"U+1F1F2 U+1F1E8"
             },
             {
                 "countryCode": "MD",
@@ -1374,7 +1398,7 @@
                 "capital": "Chişinău",
                 "continentName": "Europe",
                 "emoji":"🇲🇩",
-                        "unicode":"U+1F1F2 U+1F1E9"
+                "unicode":"U+1F1F2 U+1F1E9"
             },
             {
                 "countryCode": "ME",
@@ -1384,7 +1408,7 @@
                 "capital": "Podgorica",
                 "continentName": "Europe",
                 "emoji":"🇲🇪",
-                        "unicode":"U+1F1F2 U+1F1EA"
+                "unicode":"U+1F1F2 U+1F1EA"
             },
             {
                 "countryCode": "MF",
@@ -1394,7 +1418,7 @@
                 "capital": "Marigot",
                 "continentName": "North America",
                 "emoji":"🇲🇫",
-                        "unicode":"U+1F1F2 U+1F1EB"
+                "unicode":"U+1F1F2 U+1F1EB"
             },
             {
                 "countryCode": "MG",
@@ -1404,7 +1428,7 @@
                 "capital": "Antananarivo",
                 "continentName": "Africa",
                 "emoji":"🇲🇬",
-                        "unicode":"U+1F1F2 U+1F1EC"
+                "unicode":"U+1F1F2 U+1F1EC"
             },
             {
                 "countryCode": "MH",
@@ -1414,7 +1438,7 @@
                 "capital": "Majuro",
                 "continentName": "Oceania",
                 "emoji":"🇲🇭",
-                        "unicode":"U+1F1F2 U+1F1ED"
+                "unicode":"U+1F1F2 U+1F1ED"
             },
             {
                 "countryCode": "MK",
@@ -1424,7 +1448,7 @@
                 "capital": "Skopje",
                 "continentName": "Europe",
                 "emoji":"🇲🇰",
-                        "unicode":"U+1F1F2 U+1F1F0"
+                "unicode":"U+1F1F2 U+1F1F0"
             },
             {
                 "countryCode": "ML",
@@ -1434,7 +1458,7 @@
                 "capital": "Bamako",
                 "continentName": "Africa",
                 "emoji":"🇲🇱",
-                        "unicode":"U+1F1F2 U+1F1F1"
+                "unicode":"U+1F1F2 U+1F1F1"
             },
             {
                 "countryCode": "MM",
@@ -1444,7 +1468,7 @@
                 "capital": "Naypyitaw",
                 "continentName": "Asia",
                 "emoji":"🇲🇲",
-                        "unicode":"U+1F1F2 U+1F1F2"
+                "unicode":"U+1F1F2 U+1F1F2"
             },
             {
                 "countryCode": "MN",
@@ -1454,7 +1478,7 @@
                 "capital": "Ulan Bator",
                 "continentName": "Asia",
                 "emoji":"🇲🇳",
-                        "unicode":"U+1F1F2 U+1F1F3"
+                "unicode":"U+1F1F2 U+1F1F3"
             },
             {
                 "countryCode": "MO",
@@ -1464,7 +1488,7 @@
                 "capital": "Macao",
                 "continentName": "Asia",
                 "emoji":"🇲🇴",
-                        "unicode":"U+1F1F2 U+1F1F4"
+                "unicode":"U+1F1F2 U+1F1F4"
             },
             {
                 "countryCode": "MP",
@@ -1474,7 +1498,7 @@
                 "capital": "Saipan",
                 "continentName": "Oceania",
                 "emoji":"🇲🇵",
-                        "unicode":"U+1F1F2 U+1F1F5"
+                "unicode":"U+1F1F2 U+1F1F5"
             },
             {
                 "countryCode": "MQ",
@@ -1484,7 +1508,7 @@
                 "capital": "Fort-de-France",
                 "continentName": "North America",
                 "emoji":"🇲🇶",
-                        "unicode":"U+1F1F2 U+1F1F6"
+                "unicode":"U+1F1F2 U+1F1F6"
             },
             {
                 "countryCode": "MR",
@@ -1494,7 +1518,7 @@
                 "capital": "Nouakchott",
                 "continentName": "Africa",
                 "emoji":"🇲🇷",
-                        "unicode":"U+1F1F2 U+1F1F7"
+                "unicode":"U+1F1F2 U+1F1F7"
             },
             {
                 "countryCode": "MS",
@@ -1504,7 +1528,7 @@
                 "capital": "Plymouth",
                 "continentName": "North America",
                 "emoji":"🇲🇸",
-                        "unicode":"U+1F1F2 U+1F1F8"
+                "unicode":"U+1F1F2 U+1F1F8"
             },
             {
                 "countryCode": "MT",
@@ -1514,7 +1538,7 @@
                 "capital": "Valletta",
                 "continentName": "Europe",
                 "emoji":"🇲🇹",
-                        "unicode":"U+1F1F2 U+1F1F9"
+                "unicode":"U+1F1F2 U+1F1F9"
             },
             {
                 "countryCode": "MU",
@@ -1524,7 +1548,7 @@
                 "capital": "Port Louis",
                 "continentName": "Africa",
                 "emoji":"🇲🇺",
-                        "unicode":"U+1F1F2 U+1F1FA"
+                "unicode":"U+1F1F2 U+1F1FA"
             },
             {
                 "countryCode": "MV",
@@ -1534,7 +1558,7 @@
                 "capital": "Malé",
                 "continentName": "Asia",
                 "emoji":"🇲🇻",
-                        "unicode":"U+1F1F2 U+1F1FB"
+                "unicode":"U+1F1F2 U+1F1FB"
             },
             {
                 "countryCode": "MW",
@@ -1544,7 +1568,7 @@
                 "capital": "Lilongwe",
                 "continentName": "Africa",
                 "emoji":"🇲🇼",
-                        "unicode":"U+1F1F2 U+1F1FC"
+                "unicode":"U+1F1F2 U+1F1FC"
             },
             {
                 "countryCode": "MX",
@@ -1554,7 +1578,7 @@
                 "capital": "Mexico City",
                 "continentName": "North America",
                 "emoji":"🇲🇽",
-                        "unicode":"U+1F1F2 U+1F1FD"
+                "unicode":"U+1F1F2 U+1F1FD"
             },
             {
                 "countryCode": "MY",
@@ -1564,7 +1588,7 @@
                 "capital": "Kuala Lumpur",
                 "continentName": "Asia",
                 "emoji":"🇲🇾",
-                        "unicode":"U+1F1F2 U+1F1FE"
+                "unicode":"U+1F1F2 U+1F1FE"
             },
             {
                 "countryCode": "MZ",
@@ -1574,7 +1598,7 @@
                 "capital": "Maputo",
                 "continentName": "Africa",
                 "emoji":"🇲🇿",
-                        "unicode":"U+1F1F2 U+1F1FF"
+                "unicode":"U+1F1F2 U+1F1FF"
             },
             {
                 "countryCode": "NA",
@@ -1584,7 +1608,7 @@
                 "capital": "Windhoek",
                 "continentName": "Africa",
                 "emoji":"🇳🇦",
-                        "unicode":"U+1F1F3 U+1F1E6"
+                "unicode":"U+1F1F3 U+1F1E6"
             },
             {
                 "countryCode": "NC",
@@ -1594,7 +1618,7 @@
                 "capital": "Noumea",
                 "continentName": "Oceania",
                 "emoji":"🇳🇨",
-                        "unicode":"U+1F1F3 U+1F1E8"
+                "unicode":"U+1F1F3 U+1F1E8"
             },
             {
                 "countryCode": "NE",
@@ -1604,7 +1628,7 @@
                 "capital": "Niamey",
                 "continentName": "Africa",
                 "emoji":"🇳🇪",
-                        "unicode":"U+1F1F3 U+1F1EA"
+                "unicode":"U+1F1F3 U+1F1EA"
             },
             {
                 "countryCode": "NF",
@@ -1614,7 +1638,7 @@
                 "capital": "Kingston",
                 "continentName": "Oceania",
                 "emoji":"🇳🇫",
-                        "unicode":"U+1F1F3 U+1F1EB"
+                "unicode":"U+1F1F3 U+1F1EB"
             },
             {
                 "countryCode": "NG",
@@ -1624,7 +1648,7 @@
                 "capital": "Abuja",
                 "continentName": "Africa",
                 "emoji":"🇳🇬",
-                        "unicode":"U+1F1F3 U+1F1EC"
+                "unicode":"U+1F1F3 U+1F1EC"
             },
             {
                 "countryCode": "NI",
@@ -1634,7 +1658,7 @@
                 "capital": "Managua",
                 "continentName": "North America",
                 "emoji":"🇳🇮",
-                        "unicode":"U+1F1F3 U+1F1EE"
+                "unicode":"U+1F1F3 U+1F1EE"
             },
             {
                 "countryCode": "NL",
@@ -1644,7 +1668,7 @@
                 "capital": "Amsterdam",
                 "continentName": "Europe",
                 "emoji":"🇳🇱",
-                        "unicode":"U+1F1F3 U+1F1F1"
+                "unicode":"U+1F1F3 U+1F1F1"
             },
             {
                 "countryCode": "NO",
@@ -1654,7 +1678,7 @@
                 "capital": "Oslo",
                 "continentName": "Europe",
                 "emoji":"🇳🇴",
-                        "unicode":"U+1F1F3 U+1F1F4"
+                "unicode":"U+1F1F3 U+1F1F4"
             },
             {
                 "countryCode": "NP",
@@ -1664,7 +1688,7 @@
                 "capital": "Kathmandu",
                 "continentName": "Asia",
                 "emoji":"🇳🇵",
-                        "unicode":"U+1F1F3 U+1F1F5"
+                "unicode":"U+1F1F3 U+1F1F5"
             },
             {
                 "countryCode": "NR",
@@ -1674,7 +1698,7 @@
                 "capital": "Yaren",
                 "continentName": "Oceania",
                 "emoji":"🇳🇷",
-                        "unicode":"U+1F1F3 U+1F1F7"
+                "unicode":"U+1F1F3 U+1F1F7"
             },
             {
                 "countryCode": "NU",
@@ -1684,7 +1708,7 @@
                 "capital": "Alofi",
                 "continentName": "Oceania",
                 "emoji":"🇳🇺",
-                        "unicode":"U+1F1F3 U+1F1FA"
+                "unicode":"U+1F1F3 U+1F1FA"
             },
             {
                 "countryCode": "NZ",
@@ -1694,7 +1718,7 @@
                 "capital": "Wellington",
                 "continentName": "Oceania",
                 "emoji":"🇳🇿",
-                        "unicode":"U+1F1F3 U+1F1FF"
+                "unicode":"U+1F1F3 U+1F1FF"
             },
             {
                 "countryCode": "OM",
@@ -1704,7 +1728,7 @@
                 "capital": "Muscat",
                 "continentName": "Asia",
                 "emoji":"🇴🇲",
-                        "unicode":"U+1F1F4 U+1F1F2"
+                "unicode":"U+1F1F4 U+1F1F2"
             },
             {
                 "countryCode": "PA",
@@ -1714,7 +1738,7 @@
                 "capital": "Panama City",
                 "continentName": "North America",
                 "emoji":"🇵🇦",
-                        "unicode":"U+1F1F5 U+1F1E6"
+                "unicode":"U+1F1F5 U+1F1E6"
             },
             {
                 "countryCode": "PE",
@@ -1724,7 +1748,7 @@
                 "capital": "Lima",
                 "continentName": "South America",
                 "emoji":"🇵🇪",
-                        "unicode":"U+1F1F5 U+1F1EA"
+                "unicode":"U+1F1F5 U+1F1EA"
             },
             {
                 "countryCode": "PF",
@@ -1734,7 +1758,7 @@
                 "capital": "Papeete",
                 "continentName": "Oceania",
                 "emoji":"🇵🇫",
-                        "unicode":"U+1F1F5 U+1F1EB"
+                "unicode":"U+1F1F5 U+1F1EB"
             },
             {
                 "countryCode": "PG",
@@ -1744,7 +1768,7 @@
                 "capital": "Port Moresby",
                 "continentName": "Oceania",
                 "emoji":"🇵🇬",
-                        "unicode":"U+1F1F5 U+1F1EC"
+                "unicode":"U+1F1F5 U+1F1EC"
             },
             {
                 "countryCode": "PH",
@@ -1754,7 +1778,7 @@
                 "capital": "Manila",
                 "continentName": "Asia",
                 "emoji":"🇵🇭",
-                        "unicode":"U+1F1F5 U+1F1ED"
+                "unicode":"U+1F1F5 U+1F1ED"
             },
             {
                 "countryCode": "PK",
@@ -1764,7 +1788,7 @@
                 "capital": "Islamabad",
                 "continentName": "Asia",
                 "emoji":"🇵🇰",
-                        "unicode":"U+1F1F5 U+1F1F0"
+                "unicode":"U+1F1F5 U+1F1F0"
             },
             {
                 "countryCode": "PL",
@@ -1774,7 +1798,7 @@
                 "capital": "Warsaw",
                 "continentName": "Europe",
                 "emoji":"🇵🇱",
-                        "unicode":"U+1F1F5 U+1F1F1"
+                "unicode":"U+1F1F5 U+1F1F1"
             },
             {
                 "countryCode": "PM",
@@ -1784,7 +1808,7 @@
                 "capital": "Saint-Pierre",
                 "continentName": "North America",
                 "emoji":"🇵🇲",
-                        "unicode":"U+1F1F5 U+1F1F2"
+                "unicode":"U+1F1F5 U+1F1F2"
             },
             {
                 "countryCode": "PN",
@@ -1794,7 +1818,7 @@
                 "capital": "Adamstown",
                 "continentName": "Oceania",
                 "emoji":"🇵🇳",
-                        "unicode":"U+1F1F5 U+1F1F3"
+                "unicode":"U+1F1F5 U+1F1F3"
             },
             {
                 "countryCode": "PR",
@@ -1804,7 +1828,7 @@
                 "capital": "San Juan",
                 "continentName": "North America",
                 "emoji":"🇵🇷",
-                        "unicode":"U+1F1F5 U+1F1F7"
+                "unicode":"U+1F1F5 U+1F1F7"
             },
             {
                 "countryCode": "PS",
@@ -1814,7 +1838,7 @@
                 "capital": "",
                 "continentName": "Asia",
                 "emoji":"🇵🇸",
-                        "unicode":"U+1F1F5 U+1F1F8"
+                "unicode":"U+1F1F5 U+1F1F8"
             },
             {
                 "countryCode": "PT",
@@ -1824,7 +1848,7 @@
                 "capital": "Lisbon",
                 "continentName": "Europe",
                 "emoji":"🇵🇹",
-                        "unicode":"U+1F1F5 U+1F1F9"
+                "unicode":"U+1F1F5 U+1F1F9"
             },
             {
                 "countryCode": "PW",
@@ -1834,7 +1858,7 @@
                 "capital": "Melekeok",
                 "continentName": "Oceania",
                 "emoji":"🇵🇼",
-                        "unicode":"U+1F1F5 U+1F1FC"
+                "unicode":"U+1F1F5 U+1F1FC"
             },
             {
                 "countryCode": "PY",
@@ -1844,7 +1868,7 @@
                 "capital": "Asunción",
                 "continentName": "South America",
                 "emoji":"🇵🇾",
-                        "unicode":"U+1F1F5 U+1F1FE"
+                "unicode":"U+1F1F5 U+1F1FE"
             },
             {
                 "countryCode": "QA",
@@ -1854,7 +1878,7 @@
                 "capital": "Doha",
                 "continentName": "Asia",
                 "emoji":"🇶🇦",
-                        "unicode":"U+1F1F6 U+1F1E6"
+                "unicode":"U+1F1F6 U+1F1E6"
             },
             {
                 "countryCode": "RE",
@@ -1864,7 +1888,7 @@
                 "capital": "Saint-Denis",
                 "continentName": "Africa",
                 "emoji":"🇷🇪",
-                        "unicode":"U+1F1F7 U+1F1EA"
+                "unicode":"U+1F1F7 U+1F1EA"
             },
             {
                 "countryCode": "RO",
@@ -1874,7 +1898,7 @@
                 "capital": "Bucharest",
                 "continentName": "Europe",
                 "emoji":"🇷🇴",
-                        "unicode":"U+1F1F7 U+1F1F4"
+                "unicode":"U+1F1F7 U+1F1F4"
             },
             {
                 "countryCode": "RS",
@@ -1884,7 +1908,7 @@
                 "capital": "Belgrade",
                 "continentName": "Europe",
                 "emoji":"🇷🇸",
-                        "unicode":"U+1F1F7 U+1F1F8"
+                "unicode":"U+1F1F7 U+1F1F8"
             },
             {
                 "countryCode": "RU",
@@ -1894,7 +1918,7 @@
                 "capital": "Moscow",
                 "continentName": "Europe",
                 "emoji":"🇷🇺",
-                        "unicode":"U+1F1F7 U+1F1FA"
+                "unicode":"U+1F1F7 U+1F1FA"
             },
             {
                 "countryCode": "RW",
@@ -1904,7 +1928,7 @@
                 "capital": "Kigali",
                 "continentName": "Africa",
                 "emoji":"🇷🇼",
-                        "unicode":"U+1F1F7 U+1F1FC"
+                "unicode":"U+1F1F7 U+1F1FC"
             },
             {
                 "countryCode": "SA",
@@ -1914,7 +1938,7 @@
                 "capital": "Riyadh",
                 "continentName": "Asia",
                 "emoji":"🇸🇦",
-                        "unicode":"U+1F1F8 U+1F1E6"
+                "unicode":"U+1F1F8 U+1F1E6"
             },
             {
                 "countryCode": "SB",
@@ -1924,7 +1948,7 @@
                 "capital": "Honiara",
                 "continentName": "Oceania",
                 "emoji":"🇸🇧",
-                        "unicode":"U+1F1F8 U+1F1E7"
+                "unicode":"U+1F1F8 U+1F1E7"
             },
             {
                 "countryCode": "SC",
@@ -1934,7 +1958,7 @@
                 "capital": "Victoria",
                 "continentName": "Africa",
                 "emoji":"🇸🇨",
-                        "unicode":"U+1F1F8 U+1F1E8"
+                "unicode":"U+1F1F8 U+1F1E8"
             },
             {
                 "countryCode": "SD",
@@ -1944,7 +1968,7 @@
                 "capital": "Khartoum",
                 "continentName": "Africa",
                 "emoji":"🇸🇩",
-                        "unicode":"U+1F1F8 U+1F1E9"
+                "unicode":"U+1F1F8 U+1F1E9"
             },
             {
                 "countryCode": "SE",
@@ -1954,7 +1978,7 @@
                 "capital": "Stockholm",
                 "continentName": "Europe",
                 "emoji":"🇸🇪",
-                        "unicode":"U+1F1F8 U+1F1EA"
+                "unicode":"U+1F1F8 U+1F1EA"
             },
             {
                 "countryCode": "SG",
@@ -1964,7 +1988,7 @@
                 "capital": "Singapore",
                 "continentName": "Asia",
                 "emoji":"🇸🇬",
-                        "unicode":"U+1F1F8 U+1F1EC"
+                "unicode":"U+1F1F8 U+1F1EC"
             },
             {
                 "countryCode": "SH",
@@ -1974,7 +1998,7 @@
                 "capital": "Jamestown",
                 "continentName": "Africa",
                 "emoji":"🇸🇭",
-                        "unicode":"U+1F1F8 U+1F1ED"
+                "unicode":"U+1F1F8 U+1F1ED"
             },
             {
                 "countryCode": "SI",
@@ -1984,7 +2008,7 @@
                 "capital": "Ljubljana",
                 "continentName": "Europe",
                 "emoji":"🇸🇮",
-                        "unicode":"U+1F1F8 U+1F1EE"
+                "unicode":"U+1F1F8 U+1F1EE"
             },
             {
                 "countryCode": "SJ",
@@ -1994,7 +2018,7 @@
                 "capital": "Longyearbyen",
                 "continentName": "Europe",
                 "emoji":"🇸🇯",
-                        "unicode":"U+1F1F8 U+1F1EF"
+                "unicode":"U+1F1F8 U+1F1EF"
             },
             {
                 "countryCode": "SK",
@@ -2004,7 +2028,7 @@
                 "capital": "Bratislava",
                 "continentName": "Europe",
                 "emoji":"🇸🇰",
-                        "unicode":"U+1F1F8 U+1F1F0"
+                "unicode":"U+1F1F8 U+1F1F0"
             },
             {
                 "countryCode": "SL",
@@ -2014,7 +2038,7 @@
                 "capital": "Freetown",
                 "continentName": "Africa",
                 "emoji":"🇸🇱",
-                        "unicode":"U+1F1F8 U+1F1F1"
+                "unicode":"U+1F1F8 U+1F1F1"
             },
             {
                 "countryCode": "SM",
@@ -2024,7 +2048,7 @@
                 "capital": "San Marino",
                 "continentName": "Europe",
                 "emoji":"🇸🇲",
-                        "unicode":"U+1F1F8 U+1F1F2"
+                "unicode":"U+1F1F8 U+1F1F2"
             },
             {
                 "countryCode": "SN",
@@ -2034,7 +2058,7 @@
                 "capital": "Dakar",
                 "continentName": "Africa",
                 "emoji":"🇸🇳",
-                        "unicode":"U+1F1F8 U+1F1F3"
+                "unicode":"U+1F1F8 U+1F1F3"
             },
             {
                 "countryCode": "SO",
@@ -2044,7 +2068,7 @@
                 "capital": "Mogadishu",
                 "continentName": "Africa",
                 "emoji":"🇸🇴",
-                        "unicode":"U+1F1F8 U+1F1F4"
+                "unicode":"U+1F1F8 U+1F1F4"
             },
             {
                 "countryCode": "SR",
@@ -2054,7 +2078,7 @@
                 "capital": "Paramaribo",
                 "continentName": "South America",
                 "emoji":"🇸🇷",
-                        "unicode":"U+1F1F8 U+1F1F7"
+                "unicode":"U+1F1F8 U+1F1F7"
                         
             },
             {
@@ -2065,7 +2089,7 @@
                 "capital": "Juba",
                 "continentName": "Africa",
                 "emoji":"🇸🇸",
-                        "unicode":"U+1F1F8 U+1F1F8"
+                "unicode":"U+1F1F8 U+1F1F8"
                         
             },
             {
@@ -2076,7 +2100,7 @@
                 "capital": "São Tomé",
                 "continentName": "Africa",
                 "emoji":"🇸🇹",
-                        "unicode":"U+1F1F8 U+1F1F9"
+                "unicode":"U+1F1F8 U+1F1F9"
                         
             },
             {
@@ -2087,7 +2111,7 @@
                 "capital": "San Salvador",
                 "continentName": "North America",
                 "emoji":"🇸🇻",
-                        "unicode":"U+1F1F8 U+1F1FB"
+                "unicode":"U+1F1F8 U+1F1FB"
                         
             },
             {
@@ -2098,7 +2122,7 @@
                 "capital": "Philipsburg",
                 "continentName": "North America",
                 "emoji":"🇸🇽",
-                        "unicode":"U+1F1F8 U+1F1FD"
+                "unicode":"U+1F1F8 U+1F1FD"
                         
             },
             {
@@ -2109,7 +2133,7 @@
                 "capital": "Damascus",
                 "continentName": "Asia",
                 "emoji":"🇸🇾",
-                        "unicode":"U+1F1F8 U+1F1FE"
+                "unicode":"U+1F1F8 U+1F1FE"
                         
             },
             {
@@ -2120,7 +2144,7 @@
                 "capital": "Mbabane",
                 "continentName": "Africa",
                 "emoji":"🇸🇿",
-                        "unicode":"U+1F1F8 U+1F1FF"
+                "unicode":"U+1F1F8 U+1F1FF"
                         
             },
             {
@@ -2131,7 +2155,7 @@
                 "capital": "Cockburn Town",
                 "continentName": "North America",
                 "emoji":"🇹🇨",
-                        "unicode":"U+1F1F9 U+1F1E8"
+                "unicode":"U+1F1F9 U+1F1E8"
                         
             },
             {
@@ -2142,7 +2166,7 @@
                 "capital": "N'Djamena",
                 "continentName": "Africa",
                 "emoji":"🇹🇩",
-                        "unicode":"U+1F1F9 U+1F1E9"
+                "unicode":"U+1F1F9 U+1F1E9"
                         
             },
             {
@@ -2153,7 +2177,7 @@
                 "capital": "Port-aux-Français",
                 "continentName": "Antarctica",
                 "emoji":"🇹🇫",
-                        "unicode":"U+1F1F9 U+1F1EB"
+                "unicode":"U+1F1F9 U+1F1EB"
                         
             },
             {
@@ -2164,7 +2188,7 @@
                 "capital": "Lomé",
                 "continentName": "Africa",
                 "emoji":"🇹🇬",
-                        "unicode":"U+1F1F9 U+1F1EC"
+                "unicode":"U+1F1F9 U+1F1EC"
                         
             },
             {
@@ -2175,7 +2199,7 @@
                 "capital": "Bangkok",
                 "continentName": "Asia",
                 "emoji":"🇹🇭",
-                        "unicode":"U+1F1F9 U+1F1ED"
+                "unicode":"U+1F1F9 U+1F1ED"
                        
             },
             {
@@ -2186,7 +2210,7 @@
                 "capital": "Dushanbe",
                 "continentName": "Asia",
                 "emoji":"🇹🇯",
-                        "unicode":"U+1F1F9 U+1F1EF"
+                "unicode":"U+1F1F9 U+1F1EF"
                         
             },
             {
@@ -2197,7 +2221,7 @@
                 "capital": "",
                 "continentName": "Oceania",
                 "emoji":"🇹🇰",
-                        "unicode":"U+1F1F9 U+1F1F0"
+                "unicode":"U+1F1F9 U+1F1F0"
                         
             },
             {
@@ -2208,7 +2232,7 @@
                 "capital": "Dili",
                 "continentName": "Oceania",
                 "emoji":"🇹🇱",
-                        "unicode":"U+1F1F9 U+1F1F1"
+                "unicode":"U+1F1F9 U+1F1F1"
                         
             },
             {
@@ -2219,7 +2243,7 @@
                 "capital": "Ashgabat",
                 "continentName": "Asia",
                 "emoji":"🇹🇲",
-                        "unicode":"U+1F1F9 U+1F1F2"
+                "unicode":"U+1F1F9 U+1F1F2"
                        
             },
             {
@@ -2230,7 +2254,7 @@
                 "capital": "Tunis",
                 "continentName": "Africa",
                 "emoji":"🇹🇳",
-                        "unicode":"U+1F1F9 U+1F1F3"
+                "unicode":"U+1F1F9 U+1F1F3"
                         
             },
             {
@@ -2241,7 +2265,7 @@
                 "capital": "Nuku'alofa",
                 "continentName": "Oceania",
                 "emoji":"🇹🇴",
-                        "unicode":"U+1F1F9 U+1F1F4"
+                "unicode":"U+1F1F9 U+1F1F4"
                         
             },
             {
@@ -2252,7 +2276,7 @@
                 "capital": "Ankara",
                 "continentName": "Asia",
                 "emoji":"🇹🇷",
-                        "unicode":"U+1F1F9 U+1F1F7"
+                "unicode":"U+1F1F9 U+1F1F7"
                         
             },
             {
@@ -2263,7 +2287,7 @@
                 "capital": "Port of Spain",
                 "continentName": "North America",
                 "emoji":"🇹🇹",
-                        "unicode":"U+1F1F9 U+1F1F9"
+                "unicode":"U+1F1F9 U+1F1F9"
                         
             },
             {
@@ -2274,7 +2298,7 @@
                 "capital": "Funafuti",
                 "continentName": "Oceania",
                 "emoji":"🇹🇻",
-                        "unicode":"U+1F1F9 U+1F1FB"
+                "unicode":"U+1F1F9 U+1F1FB"
                         
             },
             {
@@ -2285,7 +2309,7 @@
                 "capital": "Taipei",
                 "continentName": "Asia",
                 "emoji":"🇹🇼",
-                        "unicode":"U+1F1F9 U+1F1FC"
+                "unicode":"U+1F1F9 U+1F1FC"
                         
             },
             {
@@ -2296,7 +2320,7 @@
                 "capital": "Dodoma",
                 "continentName": "Africa",
                 "emoji":"🇹🇿",
-                        "unicode":"U+1F1F9 U+1F1FF"
+                "unicode":"U+1F1F9 U+1F1FF"
             },
             {
                 "countryCode": "UA",
@@ -2306,7 +2330,7 @@
                 "capital": "Kiev",
                 "continentName": "Europe",
                 "emoji":"🇺🇦",
-                        "unicode":"U+1F1FA U+1F1E6"
+                "unicode":"U+1F1FA U+1F1E6"
             },
             {
                 "countryCode": "UG",
@@ -2316,7 +2340,7 @@
                 "capital": "Kampala",
                 "continentName": "Africa",
                 "emoji":"🇺🇬",
-                        "unicode":"U+1F1FA U+1F1EC"
+                "unicode":"U+1F1FA U+1F1EC"
             },
             {
                 "countryCode": "UM",
@@ -2326,7 +2350,7 @@
                 "capital": "",
                 "continentName": "Oceania",
                 "emoji":"🇺🇲",
-                        "unicode":"U+1F1FA U+1F1F2"
+                "unicode":"U+1F1FA U+1F1F2"
             },
             {
                 "countryCode": "US",
@@ -2336,7 +2360,7 @@
                 "capital": "Washington",
                 "continentName": "North America",
                 "emoji":"🇺🇸",
-                        "unicode":"U+1F1FA U+1F1F8"
+                "unicode":"U+1F1FA U+1F1F8"
             },
             {
                 "countryCode": "UY",
@@ -2346,7 +2370,7 @@
                 "capital": "Montevideo",
                 "continentName": "South America",
                 "emoji":"🇺🇾",
-                        "unicode":"U+1F1FA U+1F1FE"
+                "unicode":"U+1F1FA U+1F1FE"
             },
             {
                 "countryCode": "UZ",
@@ -2356,7 +2380,7 @@
                 "capital": "Tashkent",
                 "continentName": "Asia",
                 "emoji":"🇺🇿",
-                        "unicode":"U+1F1FA U+1F1FF"
+                "unicode":"U+1F1FA U+1F1FF"
             },
             {
                 "countryCode": "VA",
@@ -2366,7 +2390,7 @@
                 "capital": "Vatican City",
                 "continentName": "Europe",
                 "emoji":"🇻🇦",
-                        "unicode":"U+1F1FB U+1F1E6"
+                "unicode":"U+1F1FB U+1F1E6"
             },
             {
                 "countryCode": "VC",
@@ -2376,7 +2400,7 @@
                 "capital": "Kingstown",
                 "continentName": "North America",
                 "emoji":"🇻🇨",
-                        "unicode":"U+1F1FB U+1F1E8"
+                "unicode":"U+1F1FB U+1F1E8"
             },
             {
                 "countryCode": "VE",
@@ -2386,7 +2410,7 @@
                 "capital": "Caracas",
                 "continentName": "South America",
                 "emoji":"🇻🇪",
-                        "unicode":"U+1F1FB U+1F1EA"
+                "unicode":"U+1F1FB U+1F1EA"
             },
             {
                 "countryCode": "VG",
@@ -2396,7 +2420,7 @@
                 "capital": "Road Town",
                 "continentName": "North America",
                 "emoji":"🇻🇬",
-                        "unicode":"U+1F1FB U+1F1EC"
+                "unicode":"U+1F1FB U+1F1EC"
             },
             {
                 "countryCode": "VI",
@@ -2406,7 +2430,7 @@
                 "capital": "Charlotte Amalie",
                 "continentName": "North America",
                 "emoji":"🇻🇮",
-                        "unicode":"U+1F1FB U+1F1EE"
+                "unicode":"U+1F1FB U+1F1EE"
             },
             {
                 "countryCode": "VN",
@@ -2416,7 +2440,7 @@
                 "capital": "Hanoi",
                 "continentName": "Asia",
                 "emoji":"🇻🇳",
-                        "unicode":"U+1F1FB U+1F1F3"
+                "unicode":"U+1F1FB U+1F1F3"
             },
             {
                 "countryCode": "VU",
@@ -2426,7 +2450,7 @@
                 "capital": "Port Vila",
                 "continentName": "Oceania",
                 "emoji":"🇻🇺",
-                        "unicode":"U+1F1FB U+1F1FA"
+                "unicode":"U+1F1FB U+1F1FA"
             },
             {
                 "countryCode": "WF",
@@ -2436,7 +2460,7 @@
                 "capital": "Mata-Utu",
                 "continentName": "Oceania",
                 "emoji":"🇼🇫",
-                        "unicode":"U+1F1FC U+1F1EB"
+                "unicode":"U+1F1FC U+1F1EB"
             },
             {
                 "countryCode": "WS",
@@ -2446,7 +2470,7 @@
                 "capital": "Apia",
                 "continentName": "Oceania",
                 "emoji":"🇼🇸",
-                        "unicode":"U+1F1FC U+1F1F8"
+                "unicode":"U+1F1FC U+1F1F8"
             },
             {
                 "countryCode": "XK",
@@ -2456,7 +2480,7 @@
                 "capital": "Pristina",
                 "continentName": "Europe",
                 "emoji":"🇽🇰",
-                        "unicode":"U+1F1FD U+1F1F0"
+                "unicode":"U+1F1FD U+1F1F0"
             },
             {
                 "countryCode": "YE",
@@ -2466,7 +2490,7 @@
                 "capital": "Sanaa",
                 "continentName": "Asia",
                 "emoji":"🇾🇪",
-                        "unicode":"U+1F1FE U+1F1EA"
+                "unicode":"U+1F1FE U+1F1EA"
             },
             {
                 "countryCode": "YT",
@@ -2476,7 +2500,7 @@
                 "capital": "Mamoudzou",
                 "continentName": "Africa",
                 "emoji":"🇾🇹",
-                        "unicode":"U+1F1FE U+1F1F9"
+                "unicode":"U+1F1FE U+1F1F9"
             },
             {
                 "countryCode": "ZA",
@@ -2486,7 +2510,7 @@
                 "capital": "Pretoria",
                 "continentName": "Africa",
                 "emoji":"🇿🇦",
-                        "unicode":"U+1F1FF U+1F1E6"
+                "unicode":"U+1F1FF U+1F1E6"
             },
             {
                 "countryCode": "ZM",
@@ -2496,7 +2520,7 @@
                 "capital": "Lusaka",
                 "continentName": "Africa",
                 "emoji":"🇿🇲",
-                        "unicode":"U+1F1FF U+1F1F2"
+                "unicode":"U+1F1FF U+1F1F2"
             },
             {
                 "countryCode": "ZW",
@@ -2506,6 +2530,6 @@
                 "capital": "Harare",
                 "continentName": "Africa",
                 "emoji":"🇿🇼",
-                        "unicode":"U+1F1FF U+1F1FC"
+                "unicode":"U+1F1FF U+1F1FC"
             }
 ]
